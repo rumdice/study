@@ -1,0 +1,6 @@
+id,mob_id,team,HP_base,HP_const,weak_gruop_id,weak_range_min,weak_range_max,weak_change_turn,max_level,bg
+1,15111000,50001101,10000,1000,5,2,8,4,999,ice_canyon
+2,15112000,50001101,10000,1000,5,2,8,4,999,volcano
+3,15113000,50001101,10000,1000,5,2,8,4,999,primeval_forest
+4,15114000,50001101,10000,1000,5,2,8,4,999,plateau
+5,15115000,50001101,10000,1000,5,2,8,4,999,cave

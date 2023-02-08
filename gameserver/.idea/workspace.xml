@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="482138a5-546a-45e4-86d8-bb2af928b4f5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../client/Assets/Script/Packet/Webapp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../client/Assets/Script/Packet/Webapp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protobuf/bin/Webapp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../protobuf/bin/Webapp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protobuf/bin/protoc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../protobuf/bin/protoc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protobuf/bin/protoc.exe.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../protobuf/bin/webapp_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../protobuf/bin/webapp_pb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../slack-bot-csharp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sublime_sftp_debug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sublime_sftp_debug.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/arena_normal_reward.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/arena_normal_reward_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/arena_tournament_daily_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/arena_tournament_daily_process_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/arena_tournament_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/arena_tournament_start_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/commit_protobuf.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/default.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/default.ini.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/default_local.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/kt_cloud.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/local.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/local.ini.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/logging_scheduler.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/logging_ws.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/naver_cloud.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/owl_test.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/scheduler_server.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/service.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/service.ini.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/service_dev.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/service_kt.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/service_local.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/conf/service_naver.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/fabfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/CheckResult.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/Const.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/Item.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/altar.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/area_distance.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/arenaCoinShop.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/boss.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/box.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/build_unlock.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/building_slot.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/camp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/cash_shop.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/cash_shop_package.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/cash_shop_page.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/castle.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/class_stat_const.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/darknest_monster.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/darknest_reward.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/dungeon_enterOnce.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/dungeon_gimmick.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/dungeon_restrict.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/endlessTower.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/enhance.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/event.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/event_controller.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/farming_tower.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/field.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/food_storage.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/ft_exp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/ft_food.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/ft_gold.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/ft_iron.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/ft_stone.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/ft_wood.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/gacha.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/gather_reward.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/guildRaid_grade.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/guildRaid_monster.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/guildRaid_reward_fail.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/guildRaid_reward_win.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/guildRaid_weak_group.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/guildRaid_weakness.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/hero.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/hero_gather.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/hero_quote.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/hero_return.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/iron_storage.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/laboratory.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/league_reward.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/lumber_mill.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/mine.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/new_attendance.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/particle.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/profile_img.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/promotion.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/pvp_normal_npc_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/pvp_normal_reward.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/quarry.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/recipe.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/region.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/region_mission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/region_mission_group.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/regioncheck.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/relic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/resource_area.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/returnPointShop.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/reward_group.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/reward_prob.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/reward_set.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/roguelike_reward.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/skill.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/skill_stat_define.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/skill_target_define.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/skilleffect.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/start_battleItem.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/start_hero.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/stone_storage.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/team.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/tier_attendance.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/tourament_reward.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/trade.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/trade_item.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/trade_ship.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/trader.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/wood_storage.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/gamedata/workshop.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/guild_raid_reward.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/guild_raid_reward_scheduler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/guild_raid_reward_scheduler_dev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/init_arena_noraml_dummy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/init_arena_noraml_dummy_naver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/init_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/init_cache_dq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/init_cache_live.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/init_cache_naver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/10_set_nginx.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/11_create_db.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/1_init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/2_get_python.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/3_make_python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/4_make_venv.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/5_set_python_venv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/6_install_docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/7_create_docker_db.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/8_set_db.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/9_create_docker_redis.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/Python-3.7.9.tar.xz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/crontab.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/rp_server.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/reload_server.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/rsyn_owlgames.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/rsyn_owlgames_hk.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/rsyn_qa.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/rsyn_test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/start_server.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/stop_server.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/shell/tail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/LogDB.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/account.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/adminTool.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/create_db.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/create_db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/create_db_sharding.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/create_table.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/createdb.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/gamedb.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/guild.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/guildinfo.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/sql_dump.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/install/sql/sqlschema_dump.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/LogDB.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/account.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/adminTool.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/create_db.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/create_db.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/create_db_newborn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/game.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/guild.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/guildinfo.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/old_sql/sql_dump.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/patch.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/pb.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/recovery_arena_normal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/run_scheduler_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/scheduler.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/set_event.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/shell_arena_normal_season_process.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/shell_arena_tournament_daily_match.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/shell_arena_tournament_start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/arena_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/arena_tournament_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/event_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/guild_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/guild_raid_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/hall_of_fame_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/power_warfare_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/proc_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/push_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/user_nick_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/user_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/proc/wave_ranking_proc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/redis_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/redis_storage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/RedisUtil/session_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/account_databases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/config_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/customize_exception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/gamecommon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/logger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/logmgr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/common/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/cron/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/cron/context.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/cron/scheduler_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/ext/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/ext/sqlalchemy_ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/accounts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/accounts/accounts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_arena_normal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_arena_tournament.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_attendance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_darknest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_endless_tower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_event_dungeon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_farming_tower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_gacha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_inventory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_make_item.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_region_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_region_mission.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_resource.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_territory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_territory_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/game/tb_tradeitem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/tb_guild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/tb_guild_contest_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/tb_guild_member.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/tb_guild_raid_damage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/tb_guildinfo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/guild/tb_raid_result.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/log/tb_log_table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/webtool/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/webtool/arena_tournament_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/mapper/webtool/event_dungeon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/databases/sqlsession.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/game_databases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameclient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/context.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/gamedata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/gamelog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/real_event.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/router_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/services/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/services/event_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/gameserver/sync_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/guild_databases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/libs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/libs/uwsgi_stub.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/log_database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/log_pb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/mongtal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/mongtal/handlers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/mongtal/simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/mongtal/test_mongotal2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/mongtal/test_mongtal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/protoc.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/account_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/arena_normal_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/arena_tournament_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/attendance_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/darknest_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/endless_tower_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/event_dungeon_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/farming_tower_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/gacha_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/inven_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/makeitem_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/post_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/profile_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/region_mission_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/regioninfo_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/resource_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/territory_build_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/territory_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/gameserver/tradeitem_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/guild/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/guild/guild_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/guild/guildinfo_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/guild/guildmember_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/guild/guildraiddamage_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/guild/raid_result_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/log/log_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/redis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/redis/cache_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/redis/ranking_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/webtool/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/webtool/arena_tournament_info_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/repositories/webtool/event_dungeon_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/verifyserver/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/verifyserver/auth_aos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/verifyserver/auth_ios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/verifyserver/verify_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/webapp_pb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/auth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/host.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/owlgames-hk.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/owlgames-hk.ppk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/owlgames-hk.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/owlgames-seoul.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/owlgames-seoul.ppk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/ssh/owlgames-seoul.pub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/stress_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/arena_normal_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/arena_tournament_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/attendance_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/darknest_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/default_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/equp_enchant_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/event_dungeon_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/farming_tower_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/gacha_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/guild_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/hero_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/logs/ws.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/logs/ws.log.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/makeitem_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/post_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/region_mission_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/region_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/resource/databaseFactory.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/resource/default.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/resource/default.ini.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/resource/local.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/resource/logging_ws.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/resource_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/territory_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/test_helper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/tests/tradeitem_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/webapp.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_hero_promotion.coverage" NAME="Unittest DefaultTestCase.test_hero_promotion Coverage Results" MODIFIED="1582270624033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$tradeitem_repository.coverage" NAME="tradeitem_repository Coverage Results" MODIFIED="1575529105854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/repositories/gameserver" />
+    <SUITE FILE_PATH="coverage/project$gamecommon.coverage" NAME="gamecommon Coverage Results" MODIFIED="1571038453206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/common" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_farming_tower_test.coverage" NAME="Unittests in farming_tower_test Coverage Results" MODIFIED="1606445137731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$guild_raid_reward_scheduler_dev.coverage" NAME="guild_raid_reward_scheduler_dev Coverage Results" MODIFIED="1586222945175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_default.coverage" NAME="Unittest DefaultTestCase.test_default Coverage Results" MODIFIED="1613971427508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_region_test.coverage" NAME="Unittests in region_test Coverage Results" MODIFIED="1597388221454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_field_levelup.coverage" NAME="Unittest DefaultTestCase.test_field_levelup Coverage Results" MODIFIED="1574674413463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_post_test.coverage" NAME="Unittests in post_test Coverage Results" MODIFIED="1590991727948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_gacha_summon.coverage" NAME="Unittest DefaultTestCase.test_gacha_summon Coverage Results" MODIFIED="1572852000210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_resource_test.coverage" NAME="Unittests in resource_test Coverage Results" MODIFIED="1606446475664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_test_helper.coverage" NAME="Unittests in test_helper Coverage Results" MODIFIED="1566980117260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$arena_tournament_start.coverage" NAME="arena_tournament_start Coverage Results" MODIFIED="1613981785737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_makeitem_test.coverage" NAME="Unittests in makeitem_test Coverage Results" MODIFIED="1606272431868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_field_build.coverage" NAME="Unittest DefaultTestCase.test_field_build Coverage Results" MODIFIED="1580978123961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_gacha_use_item.coverage" NAME="Unittest DefaultTestCase.test_gacha_use_item Coverage Results" MODIFIED="1582095702374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_territory_test.coverage" NAME="Unittests in territory_test Coverage Results" MODIFIED="1606294196126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_arena_tournament_packet.coverage" NAME="Unittest DefaultTestCase.test_arena_tournament_packet Coverage Results" MODIFIED="1613977675848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_territory_default.coverage" NAME="Unittest DefaultTestCase.test_territory_default Coverage Results" MODIFIED="1584318959639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$service.coverage" NAME="service Coverage Results" MODIFIED="1606116571293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gameserver" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_gacha_test.coverage" NAME="Unittests in gacha_test Coverage Results" MODIFIED="1597714042137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_equp_enchant_test.coverage" NAME="Unittests in equp_enchant_test Coverage Results" MODIFIED="1588144305259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$tb_guild.coverage" NAME="tb_guild Coverage Results" MODIFIED="1576204787509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/databases/mapper/guild" />
+    <SUITE FILE_PATH="coverage/project$recovery_arena_normal.coverage" NAME="recovery_arena_normal Coverage Results" MODIFIED="1611801897673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_attendance_test.coverage" NAME="Unittests in attendance_test Coverage Results" MODIFIED="1600388956574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_darknest_test.coverage" NAME="Unittests in darknest_test Coverage Results" MODIFIED="1613971267769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$arena_normal_reward.coverage" NAME="arena_normal_reward Coverage Results" MODIFIED="1614132229903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_castle_levelup.coverage" NAME="Unittest DefaultTestCase.test_castle_levelup Coverage Results" MODIFIED="1580862228832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$account_databases.coverage" NAME="account_databases Coverage Results" MODIFIED="1614131608701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_tradeitem_test.coverage" NAME="Unittests in tradeitem_test Coverage Results" MODIFIED="1606456441435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_default_test.coverage" NAME="Unittests in default_test Coverage Results" MODIFIED="1613966544097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_guild_test.coverage" NAME="Unittests in guild_test Coverage Results" MODIFIED="1611627074053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_DefaultTestCase.coverage" NAME="Unittests in DefaultTestCase Coverage Results" MODIFIED="1575018190012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_hero_levelup.coverage" NAME="Unittest DefaultTestCase.test_hero_levelup Coverage Results" MODIFIED="1582270067036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$init_cache_dq.coverage" NAME="init_cache_dq Coverage Results" MODIFIED="1612340388756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_login.coverage" NAME="Unittest DefaultTestCase.test_login Coverage Results" MODIFIED="1568777229611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_hero_test.coverage" NAME="Unittests in hero_test Coverage Results" MODIFIED="1611810637936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$arena_tournament_daily_process.coverage" NAME="arena_tournament_daily_process Coverage Results" MODIFIED="1613982094785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$gamedata.coverage" NAME="gamedata Coverage Results" MODIFIED="1614222410518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gameserver" />
+    <SUITE FILE_PATH="coverage/project$common.coverage" NAME="common Coverage Results" MODIFIED="1585637904236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/gameserver" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_region_mission_test.coverage" NAME="Unittests in region_mission_test Coverage Results" MODIFIED="1606448325372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_arena_normal_test.coverage" NAME="Unittests in arena_normal_test Coverage Results" MODIFIED="1613971589619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$init_cache.coverage" NAME="init_cache Coverage Results" MODIFIED="1612340216120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$stress_test.coverage" NAME="stress_test Coverage Results" MODIFIED="1559098017614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1583312545460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_event_dungeon_test.coverage" NAME="Unittests in event_dungeon_test Coverage Results" MODIFIED="1606454843416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$guild_raid_reward_scheduler.coverage" NAME="guild_raid_reward_scheduler Coverage Results" MODIFIED="1613612178426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittest_DefaultTestCase_test_guild_default.coverage" NAME="Unittest DefaultTestCase.test_guild_default Coverage Results" MODIFIED="1582612626023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$init_arena_noraml_dummy.coverage" NAME="init_arena_noraml_dummy Coverage Results" MODIFIED="1606280779795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$webapp.coverage" NAME="webapp Coverage Results" MODIFIED="1606282294033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_arena_tournament_test.coverage" NAME="Unittests in arena_tournament_test Coverage Results" MODIFIED="1614146935187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/project$attendance_repository.coverage" NAME="attendance_repository Coverage Results" MODIFIED="1591148094293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/repositories/gameserver" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delete</find>
+      <find>.delete</find>
+      <find>getpro</find>
+      <find>redis_data =</find>
+      <find>cache</find>
+      <find>if 0 &lt; tournament_info.reward_rank:</find>
+      <find>1117</find>
+      <find>ARENA_NORMAL</find>
+      <find>arena_</find>
+      <find>reco</find>
+      <find>read_csvfile</find>
+      <find>read_arena_normal_reward</find>
+      <find>thalloffame</find>
+      <find>matchlist</find>
+      <find>arena_hall_of_fame</find>
+      <find>match_users</find>
+      <find>arena_tourment_battle_result</find>
+      <find>redis_data</find>
+      <find>semi_final_round</find>
+      <find>R_TOURNAMENT_INFO</find>
+      <find>R_TOURNAMENT_END_TIME</find>
+      <find>R_TOURNAMENT_ROUND</find>
+      <find>arena_info</find>
+      <find>TournamentInfo</find>
+      <find>.round</find>
+      <find>redis_flush</find>
+      <find>round</find>
+      <find>update_arena_tournament</find>
+      <find>semi</find>
+      <find>hall_of_fame</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>192.168.0.10</replace>
+      <replace>utf8mb4_0900_ai_ci;</replace>
+      <replace>&quot;url&quot;:&quot;mysql:+pymysql</replace>
+      <replace>&quot;url&quot;:&quot;mysql+pymysql</replace>
+      <replace>mysql+pymysql:</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/databases/mapper/game/tb_profile.py" />
+        <option value="$PROJECT_DIR$/src/repositories/gameserver/draknest_repository.py" />
+        <option value="$PROJECT_DIR$/src/databases/mapper/game/tb_darknest.py" />
+        <option value="$PROJECT_DIR$/src/repositories/gameserver/darknest_repository.py" />
+        <option value="$PROJECT_DIR$/tests/darknest_test.py" />
+        <option value="$PROJECT_DIR$/guild_raid_reward_scheduler.py" />
+        <option value="$PROJECT_DIR$/src/repositories/guild/guildraiddamage_repository.py" />
+        <option value="$PROJECT_DIR$/src/repositories/gameserver/arena_normal_repository.py" />
+        <option value="$PROJECT_DIR$/src/repositories/repository.py" />
+        <option value="$PROJECT_DIR$/src/RedisUtil/proc/arena_tournament.py" />
+        <option value="$PROJECT_DIR$/src/game_databases.py" />
+        <option value="$PROJECT_DIR$/conf/default.ini" />
+        <option value="$PROJECT_DIR$/conf/service.ini" />
+        <option value="$PROJECT_DIR$/tests/resource/local.ini" />
+        <option value="$PROJECT_DIR$/tests/resource/default.ini" />
+        <option value="$PROJECT_DIR$/src/RedisUtil/proc/arena_tournament_proc.py" />
+        <option value="$PROJECT_DIR$/arena_tournament_dailyProcess.py" />
+        <option value="$PROJECT_DIR$/tests/test_helper.py" />
+        <option value="$PROJECT_DIR$/src/RedisUtil/redis_storage.py" />
+        <option value="$PROJECT_DIR$/src/repositories/gameserver/arena_tournament_repository.py" />
+        <option value="$PROJECT_DIR$/arena_tournament_start.py" />
+        <option value="$PROJECT_DIR$/src/databases/mapper/game/tb_arena_tournament.py" />
+        <option value="$PROJECT_DIR$/arena_tournament_start.sh" />
+        <option value="$PROJECT_DIR$/shell_arena_normal_season_process.sh" />
+        <option value="$PROJECT_DIR$/guild_raid_reward.sh" />
+        <option value="$PROJECT_DIR$/shell_arena_tournament_daily_match.sh" />
+        <option value="$PROJECT_DIR$/shell_arena_tournament_start.sh" />
+        <option value="$PROJECT_DIR$/conf/owl_test.ini" />
+        <option value="$PROJECT_DIR$/conf/service_dev.ini" />
+        <option value="$PROJECT_DIR$/init_arena_noraml_dummy.py" />
+        <option value="$PROJECT_DIR$/src/databases/mapper/game/tb_arena_normal.py" />
+        <option value="$PROJECT_DIR$/src/RedisUtil/proc/arena_proc.py" />
+        <option value="$PROJECT_DIR$/src/repositories/gameserver/account_repository.py" />
+        <option value="$PROJECT_DIR$/src/gameserver/context.py" />
+        <option value="$PROJECT_DIR$/src/account_databases.py" />
+        <option value="$PROJECT_DIR$/src/databases/mapper/accounts/accounts.py" />
+        <option value="$PROJECT_DIR$/arena_normal_reward.py" />
+        <option value="$PROJECT_DIR$/tests/arena_normal_test.py" />
+        <option value="$PROJECT_DIR$/src/webapp.proto" />
+        <option value="$PROJECT_DIR$/src/gameclient.py" />
+        <option value="$PROJECT_DIR$/tests/arena_tournament_test.py" />
+        <option value="$PROJECT_DIR$/src/gameserver/gamedata.py" />
+        <option value="$PROJECT_DIR$/arena_tournament_daily_process.py" />
+        <option value="$PROJECT_DIR$/src/gameserver/common.py" />
+        <option value="$PROJECT_DIR$/src/common/gamecommon.py" />
+        <option value="$PROJECT_DIR$/arena_tournament_start_dev.py" />
+        <option value="$PROJECT_DIR$/arena_tournament_daily_process_dev.py" />
+        <option value="$PROJECT_DIR$/src/gameserver/service.py" />
+        <option value="$PROJECT_DIR$/src/databases/mapper/webtool/arena_tournament_info.py" />
+        <option value="$PROJECT_DIR$/src/repositories/webtool/arena_tournament_info_repository.py" />
+        <option value="$PROJECT_DIR$/arena_normal_reward_dev.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectId" id="2CI3WJrs5IXuTnOH4RtYMJBehbf" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webtool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repositories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gameserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gameserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedisUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RedisUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gamedata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/repositories/gameserver" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/src/repositories/guild" />
+      <recent name="$PROJECT_DIR$/conf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.gamedata">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="192.168.0.7" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="Web" />
+      <option name="PORT" value="8090" />
+      <option name="HOST" value="192.168.0.7" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$/../owlserver" remote-root="/home/owl/jenkins/owlserver" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="account_databases" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/account_databases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="arena_normal_reward" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arena_normal_reward.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="arena_tournament_daily_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arena_tournament_daily_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gamedata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/gameserver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/gameserver/gamedata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in arena_tournament_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.arena_tournament_daily_process" />
+      <item itemvalue="Python.gamedata" />
+      <item itemvalue="Python.arena_normal_reward" />
+      <item itemvalue="Python.account_databases" />
+      <item itemvalue="Python tests.Unittests in arena_tournament_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gamedata" />
+        <item itemvalue="Python tests.Unittests in arena_tournament_test" />
+        <item itemvalue="Python.arena_normal_reward" />
+        <item itemvalue="Python.account_databases" />
+        <item itemvalue="Python.arena_tournament_daily_process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\illlust\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="482138a5-546a-45e4-86d8-bb2af928b4f5" name="Default" comment="" />
+      <created>1558418801494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558418801494</updated>
+      <workItem from="1658476310334" duration="794000" />
+    </task>
+    <task id="LOCAL-00263" summary="test">
+      <created>1611538868734</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1611538868734</updated>
+    </task>
+    <task id="LOCAL-00264" summary="guild raid reward">
+      <created>1611627130931</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1611627130931</updated>
+    </task>
+    <task id="LOCAL-00265">
+      <created>1611795682068</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1611795682068</updated>
+    </task>
+    <task id="LOCAL-00266">
+      <created>1611800481252</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1611800481253</updated>
+    </task>
+    <task id="LOCAL-00267">
+      <created>1611801205446</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1611801205447</updated>
+    </task>
+    <task id="LOCAL-00268">
+      <created>1611801925215</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1611801925215</updated>
+    </task>
+    <task id="LOCAL-00269" summary="redmine issue #622">
+      <created>1611810782236</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1611810782236</updated>
+    </task>
+    <task id="LOCAL-00270" summary="redmine issue #622">
+      <created>1611814074052</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1611814074053</updated>
+    </task>
+    <task id="LOCAL-00271">
+      <created>1612164633003</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1612164633004</updated>
+    </task>
+    <task id="LOCAL-00272">
+      <created>1612164828318</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1612164828318</updated>
+    </task>
+    <task id="LOCAL-00273">
+      <created>1612170235343</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1612170235343</updated>
+    </task>
+    <task id="LOCAL-00274">
+      <created>1612339859527</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1612339859527</updated>
+    </task>
+    <task id="LOCAL-00275">
+      <created>1612340571445</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1612340571445</updated>
+    </task>
+    <task id="LOCAL-00276">
+      <created>1612340757365</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1612340757365</updated>
+    </task>
+    <task id="LOCAL-00277">
+      <created>1612839024831</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1612839024831</updated>
+    </task>
+    <task id="LOCAL-00278">
+      <created>1613354257934</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1613354257934</updated>
+    </task>
+    <task id="LOCAL-00279" summary="redmine #issue :634">
+      <created>1613543020426</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1613543020426</updated>
+    </task>
+    <task id="LOCAL-00280" summary="redmine #issue :634">
+      <created>1613552327343</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1613552327343</updated>
+    </task>
+    <task id="LOCAL-00281" summary="redmine #issue :634">
+      <created>1613612234474</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1613612234475</updated>
+    </task>
+    <task id="LOCAL-00282" summary="redmine #issue :637">
+      <created>1613984776713</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1613984776714</updated>
+    </task>
+    <task id="LOCAL-00283" summary="redmine #issue :637">
+      <created>1613985295038</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1613985295038</updated>
+    </task>
+    <task id="LOCAL-00284" summary="redmine #issue :637">
+      <created>1614042450684</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1614042450684</updated>
+    </task>
+    <task id="LOCAL-00285" summary="redmine #issue :637">
+      <created>1614044916558</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1614044916558</updated>
+    </task>
+    <task id="LOCAL-00286" summary="redmine #issue :637">
+      <created>1614045008093</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1614045008093</updated>
+    </task>
+    <task id="LOCAL-00287" summary="redmine #issue :637">
+      <created>1614046403496</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1614046403496</updated>
+    </task>
+    <task id="LOCAL-00288" summary="redmine #issue :637">
+      <created>1614047468401</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1614047468401</updated>
+    </task>
+    <task id="LOCAL-00289" summary="redmine #issue :637">
+      <created>1614048864982</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1614048864982</updated>
+    </task>
+    <task id="LOCAL-00290" summary="redmine #issue :637">
+      <created>1614049190934</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1614049190934</updated>
+    </task>
+    <task id="LOCAL-00291" summary="redmine #issue :637">
+      <created>1614049290777</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1614049290777</updated>
+    </task>
+    <task id="LOCAL-00292" summary="redmine #issue :637">
+      <created>1614049351003</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1614049351003</updated>
+    </task>
+    <task id="LOCAL-00293" summary="redmine #issue :637">
+      <created>1614050796452</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1614050796452</updated>
+    </task>
+    <task id="LOCAL-00294" summary="redmine #issue :637">
+      <created>1614051886236</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1614051886236</updated>
+    </task>
+    <task id="LOCAL-00295" summary="redmine #issue :637">
+      <created>1614060757369</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1614060757369</updated>
+    </task>
+    <task id="LOCAL-00296" summary="redmine #issue :637">
+      <created>1614067706464</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1614067706464</updated>
+    </task>
+    <task id="LOCAL-00297" summary="redmine #issue :637">
+      <created>1614068805182</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1614068805182</updated>
+    </task>
+    <task id="LOCAL-00298" summary="redmine #issue :637">
+      <created>1614068825263</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1614068825263</updated>
+    </task>
+    <task id="LOCAL-00299" summary="redmine #issue :637">
+      <created>1614127298545</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1614127298545</updated>
+    </task>
+    <task id="LOCAL-00300" summary="redmine #issue :637">
+      <created>1614127444889</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1614127444890</updated>
+    </task>
+    <task id="LOCAL-00301" summary="redmine #issue :637">
+      <created>1614129771609</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1614129771609</updated>
+    </task>
+    <task id="LOCAL-00302" summary="redmine #issue :642">
+      <created>1614147685910</created>
+      <option name="number" value="00302" />
+      <option name="presentableId" value="LOCAL-00302" />
+      <option name="project" value="LOCAL" />
+      <updated>1614147685910</updated>
+    </task>
+    <task id="LOCAL-00303" summary="redmine #issue :637">
+      <created>1614157552082</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1614157552083</updated>
+    </task>
+    <task id="LOCAL-00304" summary="redmine #issue :637">
+      <created>1614231093495</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1614231093495</updated>
+    </task>
+    <task id="LOCAL-00305" summary="redmine #issue :637">
+      <created>1614232566114</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1614232566115</updated>
+    </task>
+    <task id="LOCAL-00306" summary="redmine #issue :637">
+      <created>1614233693478</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1614233693478</updated>
+    </task>
+    <task id="LOCAL-00307" summary="redmine #issue :637">
+      <created>1614233895643</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1614233895643</updated>
+    </task>
+    <task id="LOCAL-00308" summary="redmine #issue :637">
+      <created>1614234103098</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1614234103098</updated>
+    </task>
+    <task id="LOCAL-00309" summary="redmine #issue :637">
+      <created>1614234604352</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1614234604353</updated>
+    </task>
+    <task id="LOCAL-00310" summary="redmine #issue :642">
+      <created>1614305909381</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1614305909382</updated>
+    </task>
+    <task id="LOCAL-00311" summary="redmine #issue :642">
+      <created>1614306023104</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1614306023104</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 08m 32s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 08m 54s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 10m 37s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 11m 07s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 12m 02s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 14m 54s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.22 at 16h 16m 07s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.24 at 15h 07m 25s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.24 at 15h 08m 45s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_arena_tournament_test - 2021.02.24 at 15h 08m 57s.xml">
+      <configuration name="Unittests in arena_tournament_test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24487534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.49584487" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32543105" sideWeight="0.58559555" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265086" sideWeight="0.4166205" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.49584487" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32543105" sideWeight="0.41440442" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="SVN Properties" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.49786553" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.44598338" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39439654" sideWeight="0.49473685" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39827773" sideWeight="0.5020877" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19690502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39624724" sideWeight="0.49791232" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="equip enchant log" />
+    <MESSAGE value="update sql query" />
+    <MESSAGE value="post log&#10;attend log&#10;evetn attend log" />
+    <MESSAGE value="summon gacha cash log" />
+    <MESSAGE value="hero return point log" />
+    <MESSAGE value="farming tower log" />
+    <MESSAGE value="tier attend error modify" />
+    <MESSAGE value="redmine #549" />
+    <MESSAGE value="redmine #552" />
+    <MESSAGE value="redmine #556" />
+    <MESSAGE value="redmine #584" />
+    <MESSAGE value="redmine #586" />
+    <MESSAGE value="python2 to 3" />
+    <MESSAGE value="test server service.ini setting" />
+    <MESSAGE value="redmine issue : #589" />
+    <MESSAGE value="session id" />
+    <MESSAGE value="push alram packet add" />
+    <MESSAGE value="guild raid reward scheduler" />
+    <MESSAGE value="sum query modify" />
+    <MESSAGE value="test" />
+    <MESSAGE value="guild raid reward" />
+    <MESSAGE value="redmine issue #622" />
+    <MESSAGE value="redmine #issue :634" />
+    <MESSAGE value="redmine #issue :637" />
+    <MESSAGE value="redmine #issue :642" />
+    <option name="LAST_COMMIT_MESSAGE" value="redmine #issue :642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/stress_test.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/stress_test.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/stress_test.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/stress_test.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/stress_test.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/territory_test.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/attendance_test.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/gameserver/gamedata.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/src/gameserver/service.py</url>
+          <line>1792</line>
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/repositories/log/log_repository.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="699" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/databases/mapper/log/tb_log_table.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="700" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/hero_test.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="703" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/makeitem_test.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="707" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/farming_tower_test.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="739" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/orm/query.py</url>
+          <line>3522</line>
+          <option name="timeStamp" value="776" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/sql/compiler.py</url>
+          <line>389</line>
+          <option name="timeStamp" value="777" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/sql/functions.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="778" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/orm/session.py</url>
+          <line>1297</line>
+          <option name="timeStamp" value="779" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/ext/baked.py</url>
+          <line>472</line>
+          <option name="timeStamp" value="780" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/engine/base.py</url>
+          <line>2237</line>
+          <option name="timeStamp" value="782" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/sql/base.py</url>
+          <line>422</line>
+          <option name="timeStamp" value="784" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/engine/interfaces.py</url>
+          <line>1323</line>
+          <option name="timeStamp" value="786" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/py37Project/lib/python3.7/site-packages/sqlalchemy/ext/associationproxy.py</url>
+          <line>493</line>
+          <option name="timeStamp" value="788" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/databases/mapper/guild/tb_guild_member.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="820" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/repositories/guild/guildmember_repository.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="821" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/gameserver/common.py</url>
+          <line>481</line>
+          <option name="timeStamp" value="846" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arena_tournament_start.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="856" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/gameserver/common.py</url>
+          <line>1448</line>
+          <option name="timeStamp" value="863" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="864" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="865" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="866" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="G_PROCS" language="Python" />
+      </configuration>
+      <configuration name="PythonConfigurationType">
+        <watch expression="G_PROCS" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/darknest_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="102" column="58" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedisUtil/redis_storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="94" column="43" lean-forward="true" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/py37Project/lib/python3.7/site-packages/redis/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="164" column="31" lean-forward="true" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_tournament_start.sh" />
+    <entry file="file://$PROJECT_DIR$/guild_raid_reward_scheduler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamedata/tourament_reward.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/create_db.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="100" column="35" lean-forward="true" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell_arena_normal_season_process.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guild_raid_reward.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/service.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="162" column="40" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="162" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_tournament_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <element signature="e#23#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/owl_test.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/service_dev.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="156" column="33" lean-forward="true" selection-start-line="156" selection-start-column="33" selection-end-line="156" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_arena_noraml_dummy_naver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedisUtil/proc/wave_ranking_proc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedisUtil/proc/user_nick_proc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init_arena_noraml_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="124" column="35" lean-forward="true" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databases/mapper/game/tb_arena_normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="61" column="47" lean-forward="true" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell_arena_tournament_daily_match.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedisUtil/proc/user_proc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedisUtil/proc/arena_tournament_proc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RedisUtil/proc/arena_proc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databases/sqlsession.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="341" column="0" lean-forward="false" selection-start-line="341" selection-start-column="0" selection-end-line="341" selection-end-column="0" />
+          <folding>
+            <marker date="1611539174512" expanded="true" signature="1422:1472" ph="INSERT INTO missing_value... " />
+            <marker date="1611539174512" expanded="true" signature="1991:2021" ph="UPDATE missi... " />
+            <marker date="1611539174512" expanded="true" signature="2191:2221" ph="SELECT missi... missing_value" />
+            <marker date="1611539174512" expanded="true" signature="2401:2432" ph="SELECT missi... missing_value" />
+            <marker date="1611539174512" expanded="true" signature="2612:2635" ph="update missi... " />
+            <marker date="1611539174512" expanded="true" signature="2787:2815" ph="update missi... " />
+            <marker date="1611539174512" expanded="true" signature="3000:3118" ph="INSERT INTO tb_inven_etc... " />
+            <marker date="1611539174512" expanded="true" signature="3341:3489" ph="INSERT INTO tb_guild_member... " />
+            <marker date="1611539174512" expanded="true" signature="3723:3858" ph="INSERT INTO tb_guild_raid_damage... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameserver/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="98" lean-forward="false" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/account_databases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databases/mapper/accounts/accounts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/py37Project/lib/python3.7/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="3083" column="50" lean-forward="true" selection-start-line="3083" selection-start-column="50" selection-end-line="3083" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/py37Project/lib/python3.7/site-packages/redis/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="128" column="39" lean-forward="true" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameclient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="410" column="26" lean-forward="false" selection-start-line="410" selection-start-column="8" selection-end-line="410" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shell_arena_tournament_start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arena_normal_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/arena_tournament_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameserver/gamedata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3961">
+          <caret line="243" column="38" lean-forward="false" selection-start-line="243" selection-start-column="38" selection-end-line="243" selection-end-column="38" />
+          <folding>
+            <element signature="e#23#33#0" expanded="false" />
+            <marker date="1614224434103" expanded="true" signature="2958:6957" ph="..." />
+            <marker date="1614224434103" expanded="true" signature="3687:3735" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_tournament_daily_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="96" column="29" lean-forward="false" selection-start-line="96" selection-start-column="29" selection-end-line="96" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/webapp.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4454">
+          <caret line="262" column="0" lean-forward="false" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/gamecommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4046">
+          <caret line="238" column="50" lean-forward="false" selection-start-line="238" selection-start-column="6" selection-end-line="238" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameserver/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18071">
+          <caret line="1086" column="44" lean-forward="false" selection-start-line="1086" selection-start-column="44" selection-end-line="1086" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/1874923204/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="3235" column="8" lean-forward="false" selection-start-line="3235" selection-start-column="8" selection-end-line="3235" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repositories/gameserver/arena_normal_repository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databases/mapper/game/tb_arena_tournament.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="55" lean-forward="false" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_tournament_start_dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_tournament_daily_process_dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="48" column="82" lean-forward="true" selection-start-line="48" selection-start-column="82" selection-end-line="48" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repositories/gameserver/arena_tournament_repository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="70" lean-forward="true" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/default.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="52" column="45" lean-forward="true" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repositories/gameserver/account_repository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="101" column="11" lean-forward="true" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_normal_reward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="117" column="50" lean-forward="true" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/databases/mapper/webtool/arena_tournament_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameserver/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="4248" column="0" lean-forward="true" selection-start-line="4248" selection-start-column="0" selection-end-line="4248" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repositories/webtool/arena_tournament_info_repository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arena_normal_reward_dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

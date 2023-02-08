@@ -1,0 +1,103 @@
+key,help,value
+star_weight1,별성 가중치 1성,1
+star_weight2,별성 가중치 2성,1.5
+star_weight3,별성 가중치 3성,2
+star_weight4,별성 가중치 4성,2.3
+exp_const1,경험치 계수 1성,1
+exp_const2,경험치 계수 2성,2
+exp_const3,경험치 계수 3성,4
+exp_const4,경험치 계수 4성,8
+exp_constant,경험치 상수,1
+max_mp,Max MP,1000
+power_standard,전투력보정값_표준,3
+unhit_mg,미피격 MG 계수,2
+enhance_exp,강화경험치상수,100
+material_expA,재료경험치상수A,100
+material_expB,재료경험치상수B,10
+enhance_gold,강화골드상수,10
+levelup_gold,레벨업골드상수,10
+promotion_gold,승급골드상수,10000
+basic_food_capacity,기본 식량 capacity,1000
+basic_iron_capacity,기본 철 capacity,1000
+basic_stone_capacity,기본 돌 capacity,1000
+basic_wood_capacity,기본 나무 capacity,1000
+skillMaster,스킬 숙련값(%),20
+element_strong,속성보정값_우세,2
+element_weak,속성보정값_열세,0.5
+raid_max,토벌 스테미너 Max값,3
+region_merge,모험노드_모일 확률,50
+region_fork,모험노드_갈라질 확률,50
+guild_create,길드 생성 비용(cash),100
+castle_maxLevel,성 최대레벨,25
+area2_unlock,Area2_언락 성 레벨,8
+area3_unlock,Area3_언락 성 레벨,15
+area4_unlock,Area4_언락 성 레벨,20
+collectShip_unlock,원정 채집선 언락 성 레벨,6
+tradeship_unlock,무역선 언락 성 레벨,5
+gem_build,즉시 완성 초당 보석(건설),1
+gem_craft,즉시 완성 초당 보석(제작),1
+basic_damage,전투공식_데미지상수,50
+stamina_time,스테미너 차징 시간,240
+guild_member_max_count,길드인원 최대수,30
+resource_building_icon_online,자원수집 아이콘 활성화 조건,15
+arena_refresh_time,다시찾기 쿨타임,900
+arena_refresh_cost,다시찾기 쿨타임 스킵 보석가격,15
+arena_unlock,아레나 언락 유저 레벨,6
+darknest_unlock,다크네스트 언락 유저 레벨,7
+dungeon_unlock,고대던전 언락레벨,4
+guild_unlock,길드 언락레벨,5
+silver_increase_per,상인에게 숙련_회복시 증가하는 은화량,20
+gem_research,즉시 완성 초당 보석(연구),0.1
+stamina_max_basic,유저 레벨 스태미나 시작값,5
+skill_stat_94,반격(counter)버프 스킬 반격시 파티클,20019
+Elite_relic1,엘리트몹 전투보상 유물(1성 확률),7000
+Elite_relic2,엘리트몹 전투보상 유물(2성 확률),2500
+Elite_relic3,엘리트몹 전투보상 유물(3성 확률),500
+extractor_gold,추출소골드상수,1
+raid_ticket_charge_time,토벌레이드 충전 시간,14400
+arena_ticket_limit,아레나 티켓 최대 갯수,5
+arena_ticket_charge_time,아레나 티켓 충전 시간,14400
+darknest_ticket_limit,다크네스트 티켓 최대 갯수,5
+darknest_ticket_charge_time,다크네스트 티켓 충전 시간,21600
+guild_contest_limit,길드승부 티켓 최대 갯수,3
+default_hero_max,기본 병영 인벤크기,20
+extend_hero_max,확장시 병영 최대크기,400
+default_equip_normal_max,기본 일반 장비 아이템 인벤크기,40
+extend_equip_normal_max,확장시 일반 장비 아이템 최대크기,100
+default_equip_pvp_max,기본 PVP 장비 아이템 인벤크기,20
+extend_equip_pvp_max,장시 PVP 장비 아이템 최대크기,40
+extend_hero_inven_cash,병영 확장 비용,100
+extend_hero_inven_count,병영 확장시 늘어나는 크기,5
+extend_equip_normal_cash,기본장비 인벤 확장 비용,100
+extend_equip_normal_count,기본장비 인벤 확장시 늘어나는 크기,10
+extend_equip_pvp_cash,PVP장비 인벤 확장 비용,100
+extend_equip_pvp_count,PVP장비 인벤 확장시 늘어나는 크기,10
+stamina_charge_cash,유료 스테미너 충전시 비용,10
+stamina_charge_count,유료 충전시 늘어나는 스테미너 양,10
+darknest_ticket_charge_cash,다크네스트 티켓 유료충전 비용,150
+arena_ticket_charge_cash,아레나 티켓 유료충전 비용,150
+raid_ticket_charge_cash,토벌레이드 티켓 유료충전 비용,100
+hero_max_lv_tier1,1티어 영웅 승급 최대 레벨,30
+hero_max_lv_tier2,2티어 영웅 승급 최대 레벨,50
+hero_max_lv_tier3,3티어 영웅 승급 최대 레벨,70
+hero_max_lv_tier4,4티어 영웅 승급 최대 레벨,90
+hero_max_lv_tier5,5티어 영웅 승급 최대 레벨,100
+guild_limit_count,길드 검색에서 보여줄 최근 생성 길드 갯수 ,300
+guild_choice_count,길드 검색에서 보여지는 최대 길드의 갯수,30
+change_nick_name_cash,유저 닉네임 변경 비용(보석),100
+nick_name_length_min,닉네임 최소 글자 byte수,4
+nick_name_length_max,닉네임 최대 글자 byte수,14
+guild_name_length_min,길드 이름 최소 글자 byte,4
+guild_name_length_max,길드 이름 최대 글자 byte,20
+darknest_respawn_tick,다크네스트 리스폰 시간(초),3600
+raid_end_hour,토벌 레이드 종료시간 (시간),23
+arena_normal_battle_timeout,자동 전투 종료 후 패배 서버 전송 timeout (분),6
+arena_normal_reward_term,아레나 보상 획득 시간 텀 (초),3600
+arena_normal_win_reward,승리시 얻는 아레나 코인 ,100
+arena_normal_lose_reward,패배시 얻는 아레나 코인,10
+arena_normal_auto_matchmaking,강제 매치메이킹 텀 (시간),24
+ADmob_territory_time,영지 광고 시청 보상 획득 후 쿨타임 (시간),3
+ADmob_stamina_count,스테미너 부족시 광고 일일 충전 횟수,3
+ADmob_battle_continue_count,PVE모험중 팀 전멸시 이어하기 일일 횟수,1
+ADmob_arena_normal_ticket_count,아레나 일반전 입장권 일일 충전 횟수,1
+ADmob_darknest_ticket_count,다크네스트 입장권 일일 충전 횟수,1

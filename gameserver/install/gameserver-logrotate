@@ -1,0 +1,14 @@
+/home/owl/jenkins/owlserver/gameserver/logs/*.log {
+        su root root
+        daily
+        copytruncate
+        missingok
+        rotate 365
+        notifempty
+        create 0640 owl owl
+        sharedscripts
+        postrotate
+                killall -9 uwsgi
+                /home/owl/jenkins/owlserver/start_server.sh
+        endscript
+}

@@ -1,0 +1,4 @@
+id,help,RG1_chance,RG2_chance,RG3_chance,coin_min,coin_max
+11,region1_1_wooden_box,8000,2000,0,100,110
+12,region1_1_steel_box,4000,5000,1000,140,160
+13,region1_1_gold_box,0,7000,3000,200,250

@@ -1,0 +1,191 @@
+mission_id,mission_type,mission_type help,condition_value,condition,check_type,mission_type_text_key,text_help
+1,1,아군 사망 수,1,1,1,regionMissionType_1,아군 사망 수 1 이하
+2,2,처치 몬스터 수,25,2,1,regionMissionType_2,처치 몬스터 수 25 이상
+3,3,처치 엘리트 수,5,2,1,regionMissionType_3,처치 엘리트 수 5 이상
+4,4,캠프 이용 수,1,1,1,regionMissionType_4,캠프 이용 수 1 이하
+5,5,전투 수,6,2,1,regionMissionType_5,전투 수 6 이상
+6,6,획득 유물 수,3,1,1,regionMissionType_6,획득 유물 수 3 이하
+7,7,배틀 아이템 사용 수,3,1,1,regionMissionType_7,배틀 아이템 사용 수 3 이하
+8,8,영혼 구슬 획득 수,500,2,1,regionMissionType_8,영혼 구슬 획득 수 500 이상
+9,9,영혼 구슬 사용 수,100,1,1,regionMissionType_9,영혼 구슬 사용 수 100 이하
+10,10,상인에게 구매 횟수,2,1,1,regionMissionType_10,상인에게 구매 횟수 2 이하
+11,11,상인에게 영혼 구슬 사용 수,500,2,1,regionMissionType_11,상인에게 영혼 구슬 사용 수 500 이상
+12,12,최종 생존 영웅 수,2,1,4,regionMissionType_12,최종 생존 영웅 수 2 이하
+13,13,영웅 스킬 사용 횟수,3,1,1,regionMissionType_13,영웅 스킬 사용 횟수 3 이하
+14,14,부활 횟수,0,1,1,regionMissionType_14,부활 횟수 0 이하
+15,15,스킬 강화 횟수,0,1,1,regionMissionType_15,스킬 강화 횟수 0 이하
+16,16,합성 블록 사용 횟수,10,2,1,regionMissionType_16,합성 블록 사용 횟수 10 이상
+17,17,매칭 최대 연쇄 횟수,6,2,3,regionMissionType_17,매칭 최대 연쇄 횟수 6 이상
+18,18,보스 처치 소비 턴 수,5,1,2,regionMissionType_18,보스 처치 소비 턴 수 5 이하
+19,19,전투 승리 소비 턴 수,5,1,2,regionMissionType_19,전투 승리 소비 턴 수 5 이하
+20,20,예비 영웅 편성 수,0,1,1,regionMissionType_20,예비 영웅 편성 수 0 이하
+21,21,겪은 이벤트 수,3,2,1,regionMissionType_21,겪은 이벤트 수 3 이상
+22,22,스킬 획득 수,0,1,1,regionMissionType_22,스킬 획득 수 0 이하
+23,23,전사 클래스 편성 수,0,1,1,regionMissionType_23,전사 클래스 편성 수 0 이하
+24,24,팔라딘 클래스 편성 수,0,1,1,regionMissionType_24,팔라딘 클래스 편성 수 0 이하
+25,25,헌터 클래스 편성 수,0,1,1,regionMissionType_25,헌터 클래스 편성 수 0 이하
+26,26,로그 클래스 편성 수,0,1,1,regionMissionType_26,로그 클래스 편성 수 0 이하
+27,27,마법사 클래스 편성 수,0,1,1,regionMissionType_27,마법사 클래스 편성 수 0 이하
+28,28,사제 클래스 편성 수,0,1,1,regionMissionType_28,사제 클래스 편성 수 0 이하
+29,29,샤먼 클래스 편성 수,0,1,1,regionMissionType_29,샤먼 클래스 편성 수 0 이하
+30,30,불 속성 블록 매칭 개수,50,2,1,regionMissionType_30,불 속성 블록 매칭 개수 50 이상
+31,31,물 속성 블록 매칭 개수,50,2,1,regionMissionType_31,물 속성 블록 매칭 개수 50 이상
+32,32,풀 속성 블록 매칭 개수,50,2,1,regionMissionType_32,풀 속성 블록 매칭 개수 50 이상
+33,33,빛 속성 블록 매칭 개수,50,2,1,regionMissionType_33,빛 속성 블록 매칭 개수 50 이상
+34,34,암 속성 블록 매칭 개수,50,2,1,regionMissionType_34,암 속성 블록 매칭 개수 50 이상
+35,35,무 속성 블록 매칭 개수,50,2,1,regionMissionType_35,무 속성 블록 매칭 개수 50 이상
+36,36,불 속성 영웅 편성 수,0,1,1,regionMissionType_36,불 속성 영웅 편성 수 0 이하
+37,37,물 속성 영웅 편성 수,0,1,1,regionMissionType_37,물 속성 영웅 편성 수 0 이하
+38,38,풀 속성 영웅 편성 수,0,1,1,regionMissionType_38,풀 속성 영웅 편성 수 0 이하
+39,39,빛 속성 영웅 편성 수,0,1,1,regionMissionType_39,빛 속성 영웅 편성 수 0 이하
+40,40,암 속성 영웅 편성 수,0,1,1,regionMissionType_40,암 속성 영웅 편성 수 0 이하
+41,2,처치 몬스터 수,8,2,1,regionMissionType_2,처치 몬스터 수 8 이상
+42,5,전투 수,5,2,1,regionMissionType_5,전투 수 5 이상
+43,7,배틀 아이템 사용 수,2,1,1,regionMissionType_7,배틀 아이템 사용 수 2 이하
+44,13,영웅 스킬 사용 횟수,2,1,1,regionMissionType_13,영웅 스킬 사용 횟수 2 이하
+45,18,보스 처치 소비 턴 수,4,1,2,regionMissionType_18,보스 처치 소비 턴 수 4 이하
+46,3,처치 엘리트 수,3,2,1,regionMissionType_3,처치 엘리트 수 3 이상
+47,5,전투 수,5,2,1,regionMissionType_5,전투 수 5 이상
+48,11,상인에게 영혼 구슬 사용 수,250,2,1,regionMissionType_11,상인에게 영혼 구슬 사용 수 250 이상
+49,23,전사 클래스 편성 수,0,1,5,regionMissionType_23,전사 클래스 편성 수 0 이하
+50,37,물 속성 영웅 편성 수,1,2,5,regionMissionType_37,물 속성 영웅 편성 수 1 이상
+51,19,전투 승리 소비 턴 수,3,1,2,regionMissionType_19,전투 승리 소비 턴 수 3 이하
+52,21,겪은 이벤트 수,2,2,1,regionMissionType_21,겪은 이벤트 수 2 이상
+53,22,스킬 획득 수,2,1,1,regionMissionType_22,스킬 획득 수 2 이하
+54,24,팔라딘 클래스 편성 수,0,1,5,regionMissionType_24,팔라딘 클래스 편성 수 0 이하
+55,39,빛 속성 영웅 편성 수,2,1,5,regionMissionType_39,빛 속성 영웅 편성 수 2 이하
+56,4,캠프 이용 수,2,1,1,regionMissionType_4,캠프 이용 수 2 이하
+57,10,상인에게 구매 횟수,0,1,1,regionMissionType_10,상인에게 구매 횟수 0 이하
+58,14,부활 횟수,1,1,1,regionMissionType_14,부활 횟수 1 이하
+59,15,스킬 강화 횟수,2,2,1,regionMissionType_15,스킬 강화 횟수 2 이상
+60,30,불 속성 블록 매칭 개수,30,2,1,regionMissionType_30,불 속성 블록 매칭 개수 30 이상
+61,7,배틀 아이템 사용 수,0,1,1,regionMissionType_7,배틀 아이템 사용 수 0 이하
+62,14,부활 횟수,0,1,1,regionMissionType_14,부활 횟수 0 이하
+63,16,합성 블록 사용 횟수,16,2,1,regionMissionType_16,합성 블록 사용 횟수 16 이상
+64,18,보스 처치 소비 턴 수,3,1,2,regionMissionType_18,보스 처치 소비 턴 수 3 이하
+65,28,사제 클래스 편성 수,0,1,5,regionMissionType_28,사제 클래스 편성 수 0 이하
+66,2,처치 몬스터 수,24,2,1,regionMissionType_2,처치 몬스터 수 24 이상
+67,11,상인에게 영혼 구슬 사용 수,300,2,1,regionMissionType_11,상인에게 영혼 구슬 사용 수 300 이상
+68,22,스킬 획득 수,3,2,1,regionMissionType_22,스킬 획득 수 3 이상
+69,30,불 속성 블록 매칭 개수,30,2,1,regionMissionType_30,불 속성 블록 매칭 개수 30 이상
+70,37,물 속성 영웅 편성 수,2,2,5,regionMissionType_37,물 속성 영웅 편성 수 2 이상
+71,2,처치 몬스터 수,32,2,1,regionMissionType_2,처치 몬스터 수 32 이상
+72,11,상인에게 영혼 구슬 사용 수,350,2,1,regionMissionType_11,상인에게 영혼 구슬 사용 수 350 이상
+73,16,합성 블록 사용 횟수,2,1,1,regionMissionType_16,합성 블록 사용 횟수 2 이하
+74,22,스킬 획득 수,5,2,1,regionMissionType_22,스킬 획득 수 5 이상
+75,31,물 속성 블록 매칭 개수,30,2,1,regionMissionType_31,물 속성 블록 매칭 개수 30 이상
+76,10,상인에게 구매 횟수,5,2,1,regionMissionType_10,상인에게 구매 횟수 5 이상
+77,19,전투 승리 소비 턴 수,3,1,2,regionMissionType_19,전투 승리 소비 턴 수 3 이하
+78,22,스킬 획득 수,1,1,1,regionMissionType_22,스킬 획득 수 1 이하
+79,23,전사 클래스 편성 수,0,1,5,regionMissionType_23,전사 클래스 편성 수 0 이하
+80,35,무 속성 블록 매칭 개수,36,2,1,regionMissionType_35,무 속성 블록 매칭 개수 36 이상
+81,1,아군 사망 수,1,1,1,regionMissionType_1,아군 사망 수 1 이하
+82,6,획득 유물 수,2,1,1,regionMissionType_6,획득 유물 수 2 이하
+83,13,영웅 스킬 사용 횟수,5,1,1,regionMissionType_13,영웅 스킬 사용 횟수 5 이하
+84,17,매칭 최대 연쇄 횟수,4,2,3,regionMissionType_17,매칭 최대 연쇄 횟수 4 이상
+85,30,불 속성 블록 매칭 개수,42,2,1,regionMissionType_30,불 속성 블록 매칭 개수 42 이상
+86,1,아군 사망 수,0,1,1,regionMissionType_1,아군 사망 수 0 이하
+87,18,보스 처치 소비 턴 수,5,1,2,regionMissionType_18,보스 처치 소비 턴 수 5 이하
+88,33,빛 속성 블록 매칭 개수,12,1,1,regionMissionType_33,빛 속성 블록 매칭 개수 12 이하
+89,39,빛 속성 영웅 편성 수,2,2,5,regionMissionType_39,빛 속성 영웅 편성 수 2 이상
+90,40,암 속성 영웅 편성 수,4,2,5,regionMissionType_40,암 속성 영웅 편성 수 4 이상
+91,6,획득 유물 수,0,1,1,regionMissionType_6,획득 유물 수 0 이하
+92,8,영혼 구슬 획득 수,300,2,1,regionMissionType_8,영혼 구슬 획득 수 300 이상
+93,10,상인에게 구매 횟수,2,2,1,regionMissionType_10,상인에게 구매 횟수 2 이상
+94,19,전투 승리 소비 턴 수,2,1,2,regionMissionType_19,전투 승리 소비 턴 수 2 이하
+95,21,겪은 이벤트 수,1,2,1,regionMissionType_21,겪은 이벤트 수 1 이상
+96,15,스킬 강화 횟수,2,1,1,regionMissionType_15,스킬 강화 횟수 2 이하
+97,22,스킬 획득 수,0,1,1,regionMissionType_22,스킬 획득 수 0 이하
+98,37,물 속성 영웅 편성 수,3,2,5,regionMissionType_37,물 속성 영웅 편성 수 3 이상
+99,36,불 속성 영웅 편성 수,1,1,5,regionMissionType_36,불 속성 영웅 편성 수 1 이하
+100,37,물 속성 영웅 편성 수,3,2,5,regionMissionType_37,물 속성 영웅 편성 수 3 이상
+101,4,캠프 이용 수,2,1,1,regionMissionType_4,캠프 이용 수 2 이하
+102,5,전투 수,5,2,1,regionMissionType_5,전투 수 5 이상
+103,10,상인에게 구매 횟수,2,2,1,regionMissionType_10,상인에게 구매 횟수 2 이상
+104,13,영웅 스킬 사용 횟수,3,1,1,regionMissionType_13,영웅 스킬 사용 횟수 3 이하
+105,39,빛 속성 영웅 편성 수,1,1,5,regionMissionType_39,빛 속성 영웅 편성 수 1 이하
+106,13,영웅 스킬 사용 횟수,0,1,1,regionMissionType_13,영웅 스킬 사용 횟수 0 이하
+107,14,부활 횟수,1,1,1,regionMissionType_14,부활 횟수 1 이하
+108,21,겪은 이벤트 수,2,2,1,regionMissionType_21,겪은 이벤트 수 2 이상
+109,30,불 속성 블록 매칭 개수,21,1,1,regionMissionType_30,불 속성 블록 매칭 개수 21 이하
+110,38,풀 속성 영웅 편성 수,2,2,5,regionMissionType_38,풀 속성 영웅 편성 수 2 이상
+111,5,전투 수,6,2,1,regionMissionType_5,전투 수 6 이상
+112,7,배틀 아이템 사용 수,2,1,1,regionMissionType_7,배틀 아이템 사용 수 2 이하
+113,13,영웅 스킬 사용 횟수,5,1,1,regionMissionType_13,영웅 스킬 사용 횟수 5 이하
+114,17,매칭 최대 연쇄 횟수,3,2,3,regionMissionType_17,매칭 최대 연쇄 횟수 3 이상
+115,36,불 속성 영웅 편성 수,3,2,5,regionMissionType_36,불 속성 영웅 편성 수 3 이상
+116,4,캠프 이용 수,2,1,1,regionMissionType_4,캠프 이용 수 2 이하
+117,6,획득 유물 수,3,2,1,regionMissionType_6,획득 유물 수 3 이상
+118,21,겪은 이벤트 수,0,1,1,regionMissionType_21,겪은 이벤트 수 0 이하
+119,25,헌터 클래스 편성 수,0,1,5,regionMissionType_25,헌터 클래스 편성 수 0 이하
+120,37,물 속성 영웅 편성 수,3,2,5,regionMissionType_37,물 속성 영웅 편성 수 3 이상
+121,1,아군 사망 수,1,2,1,regionMissionType_1,아군 사망 수 1 이상
+122,9,영혼 구슬 사용 수,500,2,1,regionMissionType_9,영혼 구슬 사용 수 500 이상
+123,14,부활 횟수,0,1,1,regionMissionType_14,부활 횟수 0 이하
+124,22,스킬 획득 수,1,1,1,regionMissionType_22,스킬 획득 수 1 이하
+125,27,마법사 클래스 편성 수,0,1,5,regionMissionType_27,마법사 클래스 편성 수 0 이하
+126,13,영웅 스킬 사용 횟수,5,1,1,regionMissionType_13,영웅 스킬 사용 횟수 5 이하
+127,15,스킬 강화 횟수,1,1,1,regionMissionType_15,스킬 강화 횟수 1 이하
+128,17,매칭 최대 연쇄 횟수,3,2,3,regionMissionType_17,매칭 최대 연쇄 횟수 3 이상
+129,22,스킬 획득 수,0,1,1,regionMissionType_22,스킬 획득 수 0 이하
+130,24,팔라딘 클래스 편성 수,0,1,5,regionMissionType_24,팔라딘 클래스 편성 수 0 이하
+131,1,아군 사망 수,0,1,1,regionMissionType_1,아군 사망 수 0 이하
+132,5,전투 수,7,2,1,regionMissionType_5,전투 수 7 이상
+133,7,배틀 아이템 사용 수,0,1,1,regionMissionType_7,배틀 아이템 사용 수 0 이하
+134,13,영웅 스킬 사용 횟수,3,1,1,regionMissionType_13,영웅 스킬 사용 횟수 3 이하
+135,30,불 속성 블록 매칭 개수,12,1,1,regionMissionType_30,불 속성 블록 매칭 개수 12 이하
+136,1,아군 사망 수,1,1,1,regionMissionType_1,아군 사망 수 1 이하
+137,13,영웅 스킬 사용 횟수,3,1,1,regionMissionType_13,영웅 스킬 사용 횟수 3 이하
+138,14,부활 횟수,0,1,1,regionMissionType_14,부활 횟수 0 이하
+139,20,예비 영웅 편성 수,2,1,5,regionMissionType_20,예비 영웅 편성 수 2 이하
+140,39,빛 속성 영웅 편성 수,2,1,5,regionMissionType_39,빛 속성 영웅 편성 수 2 이하
+141,11,상인에게 영혼 구슬 사용 수,100,1,1,regionMissionType_11,상인에게 영혼 구슬 사용 수 100 이하
+142,19,전투 승리 소비 턴 수,1,1,2,regionMissionType_19,전투 승리 소비 턴 수 1 이하
+143,35,무 속성 블록 매칭 개수,0,1,1,regionMissionType_35,무 속성 블록 매칭 개수 0 이하
+144,39,빛 속성 영웅 편성 수,2,2,5,regionMissionType_39,빛 속성 영웅 편성 수 2 이상
+145,40,암 속성 영웅 편성 수,2,2,5,regionMissionType_40,암 속성 영웅 편성 수 2 이상
+146,1,아군 사망 수,1,1,1,regionMissionType_1,아군 사망 수 1 이하
+147,7,배틀 아이템 사용 수,2,1,1,regionMissionType_7,배틀 아이템 사용 수 2 이하
+148,16,합성 블록 사용 횟수,6,1,1,regionMissionType_16,합성 블록 사용 횟수 6 이하
+149,28,사제 클래스 편성 수,0,1,5,regionMissionType_28,사제 클래스 편성 수 0 이하
+150,37,물 속성 영웅 편성 수,5,2,5,regionMissionType_37,물 속성 영웅 편성 수 5 이상
+151,2,처치 몬스터 수,13,1,1,regionMissionType_2,처치 몬스터 수 13 이하
+152,7,배틀 아이템 사용 수,5,2,1,regionMissionType_7,배틀 아이템 사용 수 5 이상
+153,28,사제 클래스 편성 수,0,1,5,regionMissionType_28,사제 클래스 편성 수 0 이하
+154,39,빛 속성 영웅 편성 수,0,1,5,regionMissionType_39,빛 속성 영웅 편성 수 0 이하
+155,36,불 속성 영웅 편성 수,1,1,5,regionMissionType_36,불 속성 영웅 편성 수 1 이하
+156,8,영혼 구슬 획득 수,500,2,1,regionMissionType_8,영혼 구슬 획득 수 500 이상
+157,13,영웅 스킬 사용 횟수,2,1,1,regionMissionType_13,영웅 스킬 사용 횟수 2 이하
+158,15,스킬 강화 횟수,0,1,1,regionMissionType_15,스킬 강화 횟수 0 이하
+159,18,보스 처치 소비 턴 수,4,1,2,regionMissionType_18,보스 처치 소비 턴 수 4 이하
+160,31,물 속성 블록 매칭 개수,21,1,1,regionMissionType_31,물 속성 블록 매칭 개수 21 이하
+161,7,배틀 아이템 사용 수,0,1,1,regionMissionType_7,배틀 아이템 사용 수 0 이하
+162,11,상인에게 영혼 구슬 사용 수,0,1,1,regionMissionType_11,상인에게 영혼 구슬 사용 수 0 이하
+163,13,영웅 스킬 사용 횟수,0,1,1,regionMissionType_13,영웅 스킬 사용 횟수 0 이하
+164,26,로그 클래스 편성 수,0,1,5,regionMissionType_26,로그 클래스 편성 수 0 이하
+165,38,풀 속성 영웅 편성 수,0,1,5,regionMissionType_38,풀 속성 영웅 편성 수 0 이하
+166,1,아군 사망 수,0,1,1,regionMissionType_1,아군 사망 수 0 이하
+167,4,캠프 이용 수,1,1,1,regionMissionType_4,캠프 이용 수 1 이하
+168,6,획득 유물 수,1,1,1,regionMissionType_6,획득 유물 수 1 이하
+169,28,사제 클래스 편성 수,0,1,5,regionMissionType_28,사제 클래스 편성 수 0 이하
+170,37,물 속성 영웅 편성 수,5,2,5,regionMissionType_37,물 속성 영웅 편성 수 5 이상
+171,10,상인에게 구매 횟수,3,1,1,regionMissionType_10,상인에게 구매 횟수 3 이하
+172,15,스킬 강화 횟수,0,1,1,regionMissionType_15,스킬 강화 횟수 0 이하
+173,25,헌터 클래스 편성 수,0,1,5,regionMissionType_25,헌터 클래스 편성 수 0 이하
+174,26,로그 클래스 편성 수,0,1,5,regionMissionType_26,로그 클래스 편성 수 0 이하
+175,28,사제 클래스 편성 수,1,1,5,regionMissionType_28,사제 클래스 편성 수 1 이하
+176,10,상인에게 구매 횟수,2,1,1,regionMissionType_10,상인에게 구매 횟수 2 이하
+177,18,보스 처치 소비 턴 수,4,1,2,regionMissionType_18,보스 처치 소비 턴 수 4 이하
+178,19,전투 승리 소비 턴 수,2,1,2,regionMissionType_19,전투 승리 소비 턴 수 2 이하
+179,23,전사 클래스 편성 수,0,1,5,regionMissionType_23,전사 클래스 편성 수 0 이하
+180,24,팔라딘 클래스 편성 수,0,1,5,regionMissionType_24,팔라딘 클래스 편성 수 0 이하
+181,1,아군 사망 수,1,2,1,regionMissionType_1,아군 사망 수 1 이상
+182,5,전투 수,9,2,1,regionMissionType_5,전투 수 9 이상
+183,6,획득 유물 수,0,1,1,regionMissionType_6,획득 유물 수 0 이하
+184,7,배틀 아이템 사용 수,0,1,1,regionMissionType_7,배틀 아이템 사용 수 0 이하
+185,14,부활 횟수,0,1,1,regionMissionType_14,부활 횟수 0 이하
+186,1,아군 사망 수,0,1,1,regionMissionType_1,아군 사망 수 0 이하
+187,16,합성 블록 사용 횟수,0,1,1,regionMissionType_16,합성 블록 사용 횟수 0 이하
+188,20,예비 영웅 편성 수,0,1,5,regionMissionType_20,예비 영웅 편성 수 0 이하
+189,33,빛 속성 블록 매칭 개수,0,1,1,regionMissionType_33,빛 속성 블록 매칭 개수 0 이하
+190,39,빛 속성 영웅 편성 수,0,1,5,regionMissionType_39,빛 속성 영웅 편성 수 0 이하

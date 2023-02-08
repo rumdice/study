@@ -1,0 +1,8 @@
+HOST owlgames
+	HostName 13.125.198.12
+	User ubuntu
+	IdentityFile ~/.ssh/owlgames-seoul.pem
+HOST owlgames-hk
+	HostName 18.166.228.177
+	User ubuntu
+	IdentityFile ~/.ssh/owlgames-hk.pem

@@ -1,0 +1,11 @@
+id,type,help,element,hit_check_count,activate_skill,value,target_icon
+1,1,스턴 ,0,3,20000000,1,boss_weakPoint
+2,2,스페셜 공격 캔슬,0,7,24000000,3,boss_weakPoint
+3,2,스페셜 공격 캔슬,0,4,24000000,2,boss_weakPoint
+4,3,데미지 추가,3,0,0,30,boss_weakPoint
+5,4,마나번,0,0,0,100,boss_weakPoint
+6,5,다음 페이즈로 변경(강해짐),0,3,0,1,boss_ragePoint
+7,6,이전 페이즈로 복귀(약해짐),0,4,0,1,boss_weakPoint
+8,7,보스가 스킬 시전,0,3,24000000,1,boss_ragePoint
+9,7,보스가 스킬 시전,0,5,24000000,3,boss_ragePoint
+10,4,마나번,0,1,0,350,boss_weakPoint

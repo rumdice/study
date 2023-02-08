@@ -1,0 +1,48 @@
+id,help,string_key,help2
+1,enemy,skillTargetString1,적
+2,eAll,skillTargetString2,모든 적
+3,eFrontAll,skillTargetString3,적 전열 전체
+4,eBackAll,skillTargetString4,적 후열 전체
+5,eRedAll,skillTargetString5,불 속성 적 전체
+6,eBlueAll,skillTargetString6,물 속성 적 전체
+7,eGreenAll,skillTargetString7,풀 속성 적 전체
+8,eYellowAll,skillTargetString8,빛 속성 적 전체
+9,ePurpleAll,skillTargetString9,어둠 속성 적 전체
+10,self,skillTargetString10,자신
+11,ally,skillTargetString11,아군
+12,aAll,skillTargetString12,모든 아군
+13,aFrontAll,skillTargetString13,아군 전열 전체
+14,aBackAll,skillTargetString14,아군 후열 전체
+15,aRedAll,skillTargetString15,불 속성 아군 전체
+16,aBlueAll,skillTargetString16,물 속성 아군 전체
+17,aGreenAll,skillTargetString17,풀 속성 아군 전체
+18,aYellowAll,skillTargetString18,빛 속성 아군 전체
+19,aPurpleAll,skillTargetString19,어둠 속성 아군 전체
+20,dead,skillTargetString20,아군 사망자
+21,rBlock,skillTargetString21,무작위 블럭
+22,tBlock,skillTargetString22,선택 블럭
+23,aRan,skillTargetString23,무작위 아군
+24,eRan,skillTargetString24,무작위 적
+25,dRan,skillTargetString25,무작위 아군 사망자
+26,dAll,skillTargetString26,아군 사망자 전체
+27,allyEM,skillTargetString27,자신을 제외한 아군
+28,aAllEM,skillTargetString28,자신을 제외한 아군 전체
+29,eFront,skillTargetString29,적 전열 중 하나
+30,eBack,skillTargetString30,적 후열 중 하나
+31,aFront,skillTargetString31,아군 전열 중 하나
+32,aBack,skillTargetString32,아군 후열 중 하나
+33,eBuffed,skillTargetString33,버프를 가진 적
+34,eRanBuffed,skillTargetString34,버프를 가진 무작위 적
+35,eSideEx,skillTargetString35,선택한 대상의 좌우
+36,eSide,skillTargetString36,선택한 대상과 대상의 좌우
+37,aFighterAll,skillTargetString37,아군 전사 전체
+38,aKnightAll,skillTargetString38,아군 기사 전체
+39,aHunterAll,skillTargetString39,아군 헌터 전체
+40,aMageAll,skillTargetString40,아군 마법사 전체
+41,aHealerAll,skillTargetString41,아군 힐러 전체
+42,aRogueAll,skillTargetString42,아군 로그 전체
+43,aDebuffed,skillTargetString43,디버프에 걸린 아군
+44,aAllDebuffed,skillTargetString44,디버프에 걸린 아군 전체
+45,eAllBuffed,skillTargetString45,버프를 가진 적 전체
+46,bGimmick,skillTargetString46,기믹 블록
+47,bGimmickAll,skillTargetString47,기믹 블록 전체

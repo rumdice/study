@@ -1,0 +1,12 @@
+id,help,string_key,help2
+1,ATK,skillStatString1,공격력
+2,HP,skillStatString2,체력
+3,MP,skillStatString3,마나
+4,DF,skillStatString4,방어력
+5,MG,skillStatString5,마나 회복력
+6,MHP,skillStatString6,최대 체력
+9,DMG,skillStatString9,받는 피해
+10,dodge,skillStatString10,일반공격 회피(% 단위)
+17,HP Recovery,skillStatString17,HP 회복력
+56,MG_hit,skillStatString56,공격 적중 시 MP 회복
+57,MG_miss,skillStatString57,공격 미적중 시 MP 회복

@@ -1,0 +1,16 @@
+// docker DB container 로 sql 폴더를 카피 
+sudo docker cp sql RPDB:/root/.
+
+// docker DB container에 접속
+sudo docker exec -it RPDB bash
+
+// cp 된 폴더로 이동
+cd sql
+
+// create db
+mysql -u root -p1111 --force < createdb.sql
+
+// create table
+./create_table.sh
+
+

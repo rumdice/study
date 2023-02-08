@@ -1,0 +1,3 @@
+id,RG1_chance,RG2_chance,RG3_chance,R3G1_chance,R3G2_chance,R3G3_chance,R3T1_chance,R3T2_chance,battle_item,equip_list,relic_G1_price,relic_G2_price,relic_G3_price,relic_TG1_price,relic_TG2_price,Bi_G1_price,Bi_G2_price,skill1_price,skill2_price,equipG1_price,equipG2_price,skillM_price,recover_price,recover_skill
+1,7000,2500,500,4500,2500,500,2000,500,31001100,0,200,300,400,200,300,35,50,50,50,100,200,100,100,20000001
+1000,7000,2500,500,4500,2500,500,2000,500,31001100,30210600,200,300,400,200,300,35,50,50,50,100,200,100,100,20000001

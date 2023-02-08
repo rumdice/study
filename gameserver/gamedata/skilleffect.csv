@@ -1,0 +1,39 @@
+id,refer,kind,type,buffIcon
+10,공격,instant,attack,0
+20,힐,instant,heal,0
+30,MP Burn,instant,MPBurn,0
+40,MP 충전,instant,MPCharge,0
+50,버프 해제,instant,rBuff,0
+51,디버프 해제,instant,rDebuff,0
+100,ATK% 출혈,debuff,attack,11
+101,LVL 독,debuff,attack,12
+102,HP% 화염 DoT,debuff,attack,13
+110,ATK 감소,debuff,dATK,21
+111,DF 감소,debuff,dDF,22
+112,MG 감소,debuff,dMG,23
+120,받는피해 증가,debuff,incDmg,71
+200,ATK% 도트힐,buff,heal_DOT,31
+210,ATK 증가,buff,bATK,41
+211,DF 증가,buff,bDF,42
+212,MG 증가,buff,bMG,43
+213,MAX HP 증가,buff,bHP,0
+220,피해% 반격,buff,Counter,52
+230,피해 감소,buff,decDmg,54
+240,부활,buff,Resurrect,60
+7201,피해분산,buff,DShare,53
+7101,보호,buff,Protect,51
+7301,회피,buff,Dodge,55
+7401,마나부스터 10,buff,MPCharge,56
+7411,침묵,debuff,silence,72
+7501,HP 10% 보호막,buff,Shield,57
+7511,디버프 면역,buff,imDebuff,58
+7601,은신,buff,Hide,59
+7611,체력회복 50% 저하,debuff,dHeal,73
+8001,십자 형태로 블록 소멸,instant,DstCross,0
+8203,DF 5 증가,buff,bDF,0
+8204,DF 10 증가,buff,bDF,0
+8302,ATK 10% 증가,buff,bATK,0
+8303,MG 10% 증가,buff,bMG,0
+8305,DF 1로 변화,buff,changeDF,0
+8306,DF 10% 감소,buff,dDF,0
+8401,매치아이템B로 변화,instant,BChangeMiB,0

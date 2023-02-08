@@ -1,0 +1,17 @@
+# *　　　　　　*　　　　　　*　　　　　　*　　　　　　*
+# 분(0-59)　　시간(0-23)　　일(1-31)　　월(1-12)　　　요일(0-7)
+
+SHELL=/bin/bash
+# 0 4 * * *     /home/owl/project/gameserver/restart_server.sh 1> /dev/null 2> restart_server.err
+# 5 23 * * *    /home/owl/project/gameserver/shell_guild_raid_reward.sh 1> /dev/null 2> shell_guild_raid_reward.err
+# 1 0 * * *     /home/owl/project/gameserver/shell_guild_withdraw.sh 1> /dev/null 2> shell_guild_withdraw.err
+# 5 1 * * 1     /home/owl/project/gameserver/shell_arena_normal_season_process.sh 1> /dev/null 2> shell_arena_normal_season_process.err
+# 59 23 * * *   /home/owl/project/gameserver/shell_arena_tournament_start.sh 1> /dev/null 2> shell_arena_tournament_start.err
+# 0 0 * * *     /home/owl/project/gameserver/shell_arena_tournament_daily_match.sh 1> /dev/null 2> shell_arena_tournament_daily_match.err
+# 0 0 * * *     /home/owl/project/gameserver/shell_guild_contest_matchmaking.sh 1> /dev/null 2> shell_guild_contest_matchmaking.err
+# 0 0 * * *     /home/owl/project/gameserver/shell_guild_contest_process_day.sh 1> /dev/null 2> shell_guild_contest_process_day.err
+
+0   4  * * *     /home/owl/project/gameserver/restart_server.sh 1> /dev/null 2> restart_server.err
+5  23  * * *     /home/owl/project/gameserver/shell_guild_raid_reward.sh 1> /dev/null 2> shell_guild_raid_reward.err
+10  0  * * *     /home/owl/project/gameserver/shell_guild_contest_matchmaking.sh 1> /dev/null 2> shell_guild_contest_matchmaking.err
+20  0  * * *     /home/owl/project/gameserver/shell_guild_contest_process_day.sh 1> /dev/null 2> shell_guild_contest_process_day.err

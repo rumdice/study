@@ -1,0 +1,175 @@
+id,help,projectile,particle,sound,flying_time,hit_particle,hit_hold_time,flip,hit_sound
+1,블라블라 공격,1,22,MeleeStartSound 1,0.5,1,1,0,HitSound 1
+2,블라블라 힐,0,0,0,0,2,1,0,HealSound 1
+3,블라블라 버프,0,0,0,0,3,1,0,BuffSound 1
+4,블라블라 디버프,0,0,0,0,4,1,0,DebuffSound 1
+5,블라블라 독,0,0,0,0,5,1,0,VenomEffectSound 1
+6,시전시간 0 디버프,0,0,0,0,4,0,0,DebuffSound 1
+103,배틀 아이템 폭탄 Effect,0,0,0,0,23000,0,0,magic_bomb
+1000,DOT(독) (Projectile O),1000,6,Official_Range_ProjSound_1,0.5,1000,1,0,VenomEffectSound 1
+1001,DOT(독) (Projectile X),0,0,0,0,1000,1,0,VenomEffectSound 1
+1002,DOT(출혈) (Projectile O),1001,7,Official_Range_ProjSound_1,0.5,1001,1,0,VenomEffectSound 1
+1003,DOT(출혈) (Projectile X),0,0,0,0,1001,1,0,VenomEffectSound 1
+1004,DOT(화상) (Projectile O),1002,8,Official_Range_ProjSound_1,0.5,1002,1,0,VenomEffectSound 1
+1005,DOT(화상) (Projectile X),0,0,0,0,1002,1,0,VenomEffectSound 1
+2000,비어 있는 FX,5,0,0,0,3000,1,0,Official_Melee_HitSound_1
+3000,레이저_1_(Arcane),2,3000,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3001,레이저_2_(Earth),2,3001,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3002,레이저_3_(Fire),2,3002,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3003,레이저_4_(Frost),2,3003,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3004,레이저_5_(Life),2,3004,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3005,레이저_6_(Light),2,3005,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3006,레이저_7_(Lightning),2,3006,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3007,레이저_8_(Shadow),2,3007,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3008,레이저_9_(Storm),2,3008,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+3009,레이저_10_(Water),2,3009,Laser_Projectile_Sound_1,1,3000,1,0,Laser_Hit_Sound_1
+20000,근접 공격 FX_0,5,0,0,0,20000,1,0,Official_Melee_HitSound_1
+20001,근접 공격 FX_1,5,0,0,0,20001,1,0,Official_Melee_HitSound_1
+20002,근접 공격 FX_2,5,0,0,0,20002,1,0,Official_Melee_HitSound_2
+20003,근접 공격 FX_3,5,0,0,0,20003,1,0,Official_Melee_HitSound_3
+20004,근접 공격 FX_4,5,0,0,0,20004,1,0,Official_Melee_HitSound_4
+20005,근접 공격 FX_5,5,0,0,0,20005,1,0,Official_Melee_HitSound_5
+20006,근접 공격 FX_6,5,0,0,0,20006,1,0,Official_Melee_HitSound_4
+20007,근접 공격 FX_7,5,0,0,0,20007,1,0,Official_Melee_HitSound_1
+20008,근접 공격 FX_8,5,0,0,0,20008,1,0,Common_Melee_Start_Sound_2
+20009,근접 공격 FX_9,5,0,0,0,20009,1,0,Official_Melee_HitSound_4
+20010,근접 공격 FX_10,5,0,0,0,20010,1,0,Official_Melee_HitSound_5
+20011,근접 공격 FX_11,5,0,0,0,20011,1,0,Official_Melee_HitSound_1
+20012,근접 공격 FX_12,5,0,0,0,20012,1,0,Official_Melee_HitSound_2
+20013,근접 공격 FX_13,5,0,0,0,20013,1,0,Official_Melee_HitSound_3
+20014,근접 공격 FX_14,5,0,0,0,20014,1,0,Official_Melee_HitSound_4
+20015,근접 공격 FX_15,5,0,0,0,20015,1,0,Official_Melee_HitSound_4
+20016,근접 공격 FX_16,5,0,0,0,20016,1,0,Official_Melee_HitSound_3
+20017,근접 공격 FX_17,5,0,0,0,20017,1,0,Official_Melee_HitSound_4
+20018,근접 공격 FX_10 시전시간 0,5,0,0,0,20010,0,0,Official_Melee_HitSound_5
+20019,근접 공격 FX_1 반격용 스킬,5,0,0,1,20001,0,0,Official_Melee_HitSound_1
+20100,근접 공격 slash * 3,5,0,0,0,20100,1,0,Official_Melee_HitSound_1
+21000,원거리 공격 FX_1(Projectile O),1,21000,Official_Range_ProjSound_2,0.3,21000,1,0,Official_Range_HitSound_3
+21001,원거리 공격 FX_2(Projectile O),1,21001,Official_Range_ProjSound_1,0.3,21001,1,0,Official_Range_HitSound_1
+21002,원거리 공격 FX_3(Projectile O),1,21002,Official_Range_ProjSound_2,0.3,21002,1,0,Official_Range_HitSound_2
+21003,원거리 공격 FX_4(Projectile O),1,21003,Official_Range_ProjSound_3,0.3,21003,1,0,Official_Range_HitSound_3
+21004,원거리 공격 FX_5(Projectile O),1,21004,Official_Range_ProjSound_4,0.3,21004,1,0,Official_Range_HitSound_4
+21005,원거리 공격 FX_6(Projectile O),1,21005,Official_Range_ProjSound_1,0.3,21005,1,0,Official_Range_HitSound_1
+21006,원거리 공격 FX_7(Projectile O),1,21006,Official_Range_ProjSound_1,0.3,21006,1,0,Official_Range_HitSound_1
+21007,원거리 공격 FX_8(Projectile O),1,21007,Official_Range_ProjSound_2,0.3,21007,1,0,Official_Range_HitSound_2
+21008,원거리 공격 FX_9(Projectile O),1,21008,Official_Range_ProjSound_3,0.3,21008,1,0,Official_Range_HitSound_3
+21009,원거리 공격 FX_10(Projectile O),1,21009,Official_Range_ProjSound_1,0.3,21009,1,0,Official_Melee_HitSound_4
+21010,원거리 공격 FX_11(Projectile O),1,21010,Official_Range_ProjSound_2,0.3,21010,1,0,Official_Melee_HitSound_5
+21011,원거리 공격 FX_12(Projectile O),1,21011,Official_Range_ProjSound_1,0.3,21011,1,0,Official_Melee_HitSound_2
+21100,원거리 공격 FX_1(Projectile X),5,0,0,0,21000,1,0,Official_Range_HitSound_1
+21101,원거리 공격 FX_2(Projectile X),5,0,0,0,21001,1,0,Official_Range_HitSound_2
+21102,원거리 공격 FX_3(Projectile X),5,0,0,0,21002,1,0,Official_Range_HitSound_3
+21103,원거리 공격 FX_4(Projectile X),5,0,0,0,21003,1,0,Official_Melee_HitSound_4
+21104,원거리 공격 FX_5(Projectile X),5,0,0,0,21004,1,0,Official_Melee_HitSound_5
+21105,원거리 공격 FX_6(Projectile X),5,0,0,0,21005,1,0,Official_Melee_HitSound_2
+21106,원거리 공격 FX_7(Projectile X),5,0,0,0,21006,1,0,Official_Range_HitSound_1
+21107,원거리 공격 FX_8(Projectile X),5,0,0,0,21007,1,0,Official_Range_HitSound_2
+21108,원거리 공격 FX_9(Projectile X),5,0,0,0,21008,1,0,Official_Range_HitSound_3
+21109,원거리 공격 FX_10(Projectile X),5,0,0,0,21009,1,0,Official_Melee_HitSound_4
+21110,원거리 공격 FX_11(Projectile X),5,0,0,0,21010,1,0,Official_Melee_HitSound_5
+21111,원거리 공격 FX_12(Projectile X),5,0,0,0,21011,1,0,Official_Melee_HitSound_2
+22000,무속성 마법 Effect 0,1,22000,Official_LightMagic_ProjSound_1,22000,22000,1,0,Official_LightMagic_HitSound_1
+22001,무속성 마법 Effect 1,1,22001,Official_DarkMagic_ProjSound_1,0.8,22001,1,0,Official_DarkMagic_HitSound_1
+22002,무속성 마법 Effect 2,1,22002,Official_IceMagic_ProjSound_1,0.8,22002,1,0,Official_IceMagic_HitSound_1
+22003,무속성 마법 Effect 3,1,22003,Official_NatureMagic_ProjSound_1,0.8,22003,1,0,Official_NatureMagic_HitSound_1
+22004,무속성 마법 Effect 4,1,22004,Official_NatureMagic_ProjSound_2,0.8,22004,1,0,Official_NatureMagic_HitSound_2
+22005,무속성 마법 Effect 5,1,22005,Official_LightMagic_ProjSound_2,0.8,22005,1,0,Official_LightMagic_HitSound_2
+22006,무속성 마법 Effect 6,1,22006,Official_LightMagic_ProjSound_1,0.8,22006,1,0,Official_LightMagic_HitSound_1
+22007,무속성 마법 Effect 7,1,22007,Official_DarkMagic_ProjSound_2,0.8,22007,1,0,Official_DarkMagic_HitSound_2
+22008,무속성 마법 Effect 8,1,22008,Official_DarkMagic_ProjSound_3,0.8,22008,1,0,Official_DarkMagic_HitSound_3
+22009,무속성 마법 Effect 9,1,22009,Official_IceMagic_ProjSound_2,0.8,22009,1,0,Official_IceMagic_HitSound_2
+22010,무속성 마법 Effect 10,1,22010,Official_LightMagic_ProjSound_1,0.8,22010,1,0,Official_LightMagic_HitSound_1
+22011,무속성 마법 Effect 11,1,22011,Official_LightMagic_ProjSound_1,0.8,22011,1,0,Official_LightMagic_HitSound_1
+22012,무속성 마법 Effect 12,1,22012,Official_NatureMagic_ProjSound_2,0.8,22012,1,0,Official_NatureMagic_HitSound_2
+22013,무속성 마법 Effect 13,1,22013,Official_IceMagic_ProjSound_2,0.8,22013,1,0,Official_IceMagic_HitSound_2
+22014,무속성 마법 Effect 14,1,22014,Official_IceMagic_ProjSound_1,0.8,22014,1,0,Official_IceMagic_HitSound_1
+23000,불속성 마법 Effect 0,1,23000,Fire_Fly_Sound,0.6,23000,1,0,Fire_Hit_Sound
+23001,불속성 마법 Effect 1,1,23001,Fire_Fly_Sound,0.6,23001,1,0,Fire_Hit_Sound
+23002,불속성 마법 Effect 2,1,23002,Fire_Fly_Sound,0.6,23002,1,0,Fire_Hit_Sound
+23003,불속성 마법 Effect 3,1,23003,Fire_Fly_Sound,0.6,23003,1,0,Fire_Hit_Sound
+23004,불속성 마법 Effect 4,1,23004,Fire_Fly_Sound,0.6,23004,1,0,Fire_Hit_Sound
+23005,불속성 마법 Effect 5,1,23005,Fire_Fly_Sound,0.6,23005,1,0,Fire_Hit_Sound
+23006,불속성 마법 Effect 6,1,23006,Fire_Fly_Sound,0.6,23006,1,0,Fire_Hit_Sound
+23007,불속성 마법 Effect 7,1,23007,Fire_Fly_Sound,0.6,23007,1,0,Fire_Hit_Sound
+23008,불속성 마법 Effect 8,1,23008,Fire_Fly_Sound,0.6,23008,1,0,Fire_Hit_Sound
+23009,불속성 마법 Effect 9,1,23009,Fire_Fly_Sound,0.6,23009,1,0,Fire_Hit_Sound
+23010,불속성 마법 Effect 10,1,23010,Fire_Fly_Sound,0.6,23010,1,0,Fire_Hit_Sound
+24000,물속성 마법 Effect 0,1,24000,Water_Fly_Sound,0.6,24000,1,0,Water_Hit_Sound
+24001,물속성 마법 Effect 1,1,24001,Water_Fly_Sound,0.6,24001,1,0,Water_Hit_Sound
+24002,물속성 마법 Effect 2,1,24002,Water_Fly_Sound,0.6,24002,1,0,Water_Hit_Sound
+24003,물속성 마법 Effect 3,1,24003,Water_Fly_Sound,0.6,24003,1,0,Water_Hit_Sound
+24004,물속성 마법 Effect 4,1,24004,Water_Fly_Sound,0.6,24004,1,0,Water_Hit_Sound
+24005,물속성 마법 Effect 5,1,24005,Water_Fly_Sound,0.6,24005,1,0,Water_Hit_Sound
+24006,물속성 마법 Effect 6,1,24006,Water_Fly_Sound,0.6,24006,1,0,Water_Hit_Sound
+24007,물속성 마법 Effect 7,1,24007,Water_Fly_Sound,0.6,24007,1,0,Water_Hit_Sound
+24008,물속성 마법 Effect 8,1,24008,Water_Fly_Sound,0.6,24008,1,0,Water_Hit_Sound
+24009,물속성 마법 Effect 9,1,24009,Water_Fly_Sound,0.6,24009,1,0,Water_Hit_Sound
+24010,물속성 마법 Effect 10,1,24010,Water_Fly_Sound,0.6,24010,1,0,Water_Hit_Sound
+24011,물속성 마법 Effect 11,1,24011,Water_Fly_Sound,0.6,24011,1,0,Water_Hit_Sound
+24012,물속성 마법 Effect 12,1,24012,Water_Fly_Sound,0.6,24012,1,0,Water_Hit_Sound
+24013,물속성 마법 Effect 13,1,24013,Water_Fly_Sound,0.6,24013,1,0,Water_Hit_Sound
+24014,물속성 마법 Effect 14,1,24014,Water_Fly_Sound,0.6,24014,1,0,Water_Hit_Sound
+24015,물속성 마법 Effect 15,1,24015,Water_Fly_Sound,0.6,24015,1,0,Water_Hit_Sound
+24016,물속성 마법 Effect 16,1,24016,Water_Fly_Sound,0.6,24016,1,0,Water_Hit_Sound
+24017,물속성 마법 Effect 17,1,24017,Water_Fly_Sound,0.6,24017,1,0,Water_Hit_Sound
+24018,물속성 마법 Effect 18,1,24018,Water_Fly_Sound,0.6,24018,1,0,Water_Hit_Sound
+25000,풀속성 마법 Effect 0,1,25000,Nature_Fly_Sound,0.6,25000,1,0,Nature_Hit_Sound
+25001,풀속성 마법 Effect 1,1,25001,Nature_Fly_Sound,0.6,25001,1,0,Nature_Hit_Sound
+25002,풀속성 마법 Effect 2,1,25002,Nature_Fly_Sound,0.6,25002,1,0,Nature_Hit_Sound
+25003,풀속성 마법 Effect 3,1,25003,Nature_Fly_Sound,0.6,25003,1,0,Nature_Hit_Sound
+25004,풀속성 마법 Effect 4,1,25004,Nature_Fly_Sound,0.6,25004,1,0,Nature_Hit_Sound
+25005,풀속성 마법 Effect 5,1,25005,Nature_Fly_Sound,0.6,25005,1,0,Nature_Hit_Sound
+25006,풀속성 마법 Effect 6,1,25006,Nature_Fly_Sound,0.6,25006,1,0,Nature_Hit_Sound
+25007,풀속성 마법 Effect 7,1,25007,Nature_Fly_Sound,0.6,25007,1,0,Nature_Hit_Sound
+25008,풀속성 마법 Effect 8,1,25008,Nature_Fly_Sound,0.6,25008,1,0,Nature_Hit_Sound
+25009,풀속성 마법 Effect 9,1,25009,Nature_Fly_Sound,0.6,25009,1,0,Nature_Hit_Sound
+26000,빛속성 마법 Effect 0,1,26000,Light_Fly_Sound,0.6,26000,1,0,Light_Hit_Sound
+26001,빛속성 마법 Effect 1,1,26001,Light_Fly_Sound,0.6,26001,1,0,Light_Hit_Sound
+26002,빛속성 마법 Effect 2,1,26002,Light_Fly_Sound,0.6,26002,1,0,Light_Hit_Sound
+26003,빛속성 마법 Effect 3,1,26003,Light_Fly_Sound,0.6,26003,1,0,Light_Hit_Sound
+26004,빛속성 마법 Effect 4,1,26004,Light_Fly_Sound,0.6,26004,1,0,Light_Hit_Sound
+26005,빛속성 마법 Effect 5,1,26005,Light_Fly_Sound,0.6,26005,1,0,Light_Hit_Sound
+26006,빛속성 마법 Effect 6,1,26006,Light_Fly_Sound,0.6,26006,1,0,Light_Hit_Sound
+26007,빛속성 마법 Effect 7,1,26007,Light_Fly_Sound,0.6,26007,1,0,Light_Hit_Sound
+26008,빛속성 마법 Effect 8,1,26008,Light_Fly_Sound,0.6,26008,1,0,Light_Hit_Sound
+26009,빛속성 마법 Effect 9,1,26009,Light_Fly_Sound,0.6,26009,1,0,Light_Hit_Sound
+26010,빛속성 마법 Effect 10,1,26010,Light_Fly_Sound,0.6,26010,1,0,Light_Hit_Sound
+27000,어둠속성 마법 Effect 0,1,27000,Dark_Fly_Sound,0.6,27000,1,0,Dark_Hit_Sound
+27001,어둠속성 마법 Effect 1,1,27001,Dark_Fly_Sound,0.6,27001,1,0,Dark_Hit_Sound
+27002,어둠속성 마법 Effect 2,1,27002,Dark_Fly_Sound,0.6,27002,1,0,Dark_Hit_Sound
+27003,어둠속성 마법 Effect 3,1,27003,Dark_Fly_Sound,0.6,27003,1,0,Dark_Hit_Sound
+27004,어둠속성 마법 Effect 4,1,27004,Dark_Fly_Sound,0.6,27004,1,0,Dark_Hit_Sound
+27005,어둠속성 마법 Effect 5,1,27005,Dark_Fly_Sound,0.6,27005,1,0,Dark_Hit_Sound
+27006,어둠속성 마법 Effect 6,1,27006,Dark_Fly_Sound,0.6,27006,1,0,Dark_Hit_Sound
+27007,어둠속성 마법 Effect 7,1,27007,Dark_Fly_Sound,0.6,27007,1,0,Dark_Hit_Sound
+27008,어둠속성 마법 Effect 8,1,27008,Dark_Fly_Sound,0.6,27008,1,0,Dark_Hit_Sound
+27009,어둠속성 마법 Effect 9,1,27009,Dark_Fly_Sound,0.6,27009,1,0,Dark_Hit_Sound
+30000,shield(보호막) FX 후보,0,0,0,0,30000,1,0,BuffSound 1
+30001,remove(디버프 제거) FX 후보,0,0,0,0,30001,1,0,BuffSound 1
+30002,resur(부활) FX 후보,0,0,0,0,30002,1,0,BuffSound 1
+30003,cover(대신맞기) FX 후보,0,0,0,0,30003,1,0,BuffSound 1
+30004,힐 FX 후보 2,0,0,0,0,30004,1,0,HealSound 1
+30005,refle(반사) FX 후보,0,0,0,0,30005,1,0,BuffSound 1
+30006,sharing(피해분산) FX 후보,0,0,0,0,30006,1,0,BuffSound 1
+30007,Hide(은신) FX 후보,0,0,0,0,30007,1,0,BuffSound 1
+30008,Silence(침묵) FX 후보,0,0,0,0,30008,1,0,BuffSound 1
+30009,Dodge(일반 공격 회피) FX 후보,0,0,0,0,30009,1,0,BuffSound 1
+30010,Vamp(흡혈) FX 후보,0,0,0,0,30010,1,0,BuffSound 1
+30011,통합 버프 FX 후보,0,0,0,0,30011,1,0,BuffSound 1
+30012,힐 FX 후보 3,0,0,0,0,30012,1,0,BuffSound 1
+30013,스턴 FX,0,0,0,0,30013,1,0,326
+30014,혼란 FX,0,0,0,0,30014,1,0,323
+30015,skillAgro FX,0,0,0,0,30015,1,0,BuffSound 1
+30016,imDebuff FX,0,0,0,0,30016,1,0,BuffSound 1
+40000,히드라 스킬 1 FX,5,0,0,0,40000,1,0,Official_Melee_HitSound_1
+40001,히드라 스킬 2 FX,0,0,0,0,5,1,0,VenomEffectSound 1
+40002,히드라 스킬 3 FX,1,40002,Official_IceMagic_ProjSound_3,1,40002,1,0,Official_IceMagic_HitSound_3
+40003,드래곤 스킬 1 FX,5,0,0,0,40003,1,0,Official_Melee_HitSound_2
+40004,드래곤 스킬 2 FX,1,40004,Official_FireMagic_ProjSound_1,1,40004,1,0,Official_FireMagic_HitSound_1
+40005,드래곤 스킬 3 FX,1,40005,Official_FireMagic_ProjSound_2,1,40005,1,0,Official_FireMagic_HitSound_2
+40006,보스 거미 스킬 1 FX,5,0,0,0,40006,1,0,Official_Melee_HitSound_3
+40007,보스 거미 스킬 2 FX,0,0,0,0,4,1,0,DebuffSound 1
+40008,보스 거미 스킬 3 FX,1,40008,Official_Range_ProjSound_1,1,40008,1,0,Official_Range_HitSound_2
+40009,외눈기사 스킬 1 FX,0,0,0,0,3,1,0,BuffSound_Reflection
+40010,외눈기사 스킬 2 FX,5,0,0,0,40010,1,0,Official_Melee_HitSound_5
+40011,외눈기사 스킬 3 FX,5,0,0,0,40011,1,0,Official_Melee_HitSound_6

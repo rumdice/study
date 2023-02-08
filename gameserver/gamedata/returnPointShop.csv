@@ -1,0 +1,5 @@
+id,price,reward,buy_limit_type,limit_qty,visible,name,description,image,hero_Inven_need
+1,1,39300050,0,0,1,returnShopName1,returnShopDesc1,60000201,0
+2,5,39300250,0,0,1,returnShopName2,returnShopDesc2,60000201,0
+3,10,39300500,0,0,1,returnShopName3,returnShopDesc3,60000201,0
+4,100,30000104,0,0,1,returnShopName4,returnShopDesc4,10355000,1

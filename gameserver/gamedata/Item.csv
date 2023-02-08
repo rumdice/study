@@ -1,0 +1,148 @@
+id,help,type,grade,PVP,jclass,valueType,value,speEffect1,speEffect2,inven,name,description,name_kr,name_en,image
+60000001,보석,10,0,0,0,none,0,0,0,0,itemName60000001,itemDesc60000001,보석,Gem,60000001
+60000002,골드,10,0,0,0,none,0,0,0,0,itemName60000002,itemDesc60000002,골드,Gold,60000002
+60000003,식량,10,0,0,0,none,0,0,0,0,itemName60000003,itemDesc60000003,식량,Food,60000003
+60000004,돌,10,0,0,0,none,0,0,0,0,itemName60000004,itemDesc60000004,석재,Stone,60000004
+60000005,철,10,0,0,0,none,0,0,0,0,itemName60000005,itemDesc60000005,철,Steel,60000005
+60000006,나무,10,0,0,0,none,0,0,0,0,itemName60000006,itemDesc60000006,목재,Wood,60000006
+60000007,은화,10,0,0,0,none,0,0,0,0,itemName60000007,itemDesc60000007,은화,Silver,60000007
+60000008,소환석,20,0,0,0,none,0,0,0,1,itemName60000008,itemDesc60000008,소환석,Summon Stone,60000008
+60000009,귀환 포인트,10,0,0,0,none,0,0,0,0,itemName60000009,itemDesc60000009,귀환 포인트,Homeward Points,60000009
+60000010,아레나 코인,10,0,0,0,none,0,0,0,0,itemName60000010,itemDesc60000010,아레나 코인,Arena Coin,60000010
+60000011,스태미나,10,0,0,0,none,0,0,0,0,itemName60000011,itemDesc60000011,스태미나,Stamina,60000011
+60000012,다크네스트 티켓 묶음,10,0,0,0,none,0,0,0,1,itemName60000012,itemDesc60000012,다크네스트 티켓 팩,Darknest ticket pack,60000012
+60000013,아레나 티켓 묶음,10,0,0,0,none,0,0,0,1,itemName60000013,itemDesc60000013,아레나 티켓 팩,Arena ticket pack,60000013
+60000014,토벌 레이드 티켓 묶음,10,0,0,0,none,0,0,0,1,itemName60000014,itemDesc60000014,토벌 레이드 티켓 팩,Guildraid ticket pack,60000014
+60000015,유저 경험치,10,0,0,0,none,0,0,0,1,itemName60000015,itemDesc60000015,유저 경험치,User Exp,60000015
+60000091,속성석(불),20,0,0,0,none,0,0,0,1,itemName60000091,itemDesc60000091,속성석(불),Attribute Stone (Fire),60000091
+60000092,속성석(물),20,0,0,0,none,0,0,0,1,itemName60000092,itemDesc60000092,속성석(물),Attribute Stone (Water),60000092
+60000093,속성석(풀),20,0,0,0,none,0,0,0,1,itemName60000093,itemDesc60000093,속성석(풀),Attribute Stone (Grass),60000093
+60000094,속성석(빛),20,0,0,0,none,0,0,0,1,itemName60000094,itemDesc60000094,속성석(빛),Attribute Stone (Light),60000094
+60000095,속성석(어둠),20,0,0,0,none,0,0,0,1,itemName60000095,itemDesc60000095,속성석(어둠),Attribute Stone (Dark),60000095
+60000201,경험치석,20,0,0,0,none,0,0,0,1,itemName60000201,itemDesc60000201,경험치석,Exp Stone,60000201
+60410001,군인의 검,40,1,0,0,none,0,0,0,1,itemName60410001,itemDesc60410001,군인의 검,Straight Sword,60410001
+60410002,다목적 칼,40,1,0,0,none,0,0,0,1,itemName60410002,itemDesc60410002,다목적 칼,Multipurpose Knife,60410002
+60410003,커다란 가방,40,1,0,0,none,0,0,0,1,itemName60410003,itemDesc60410003,커다란 가방,Duffle Bag,60410003
+60410004,나침반,40,1,0,0,none,0,0,0,1,itemName60410004,itemDesc60410004,나침반,Compass,60410004
+60410005,나무 화살통,40,1,0,0,none,0,0,0,1,itemName60410005,itemDesc60410005,나무 화살통,Wooden Quiver,60410005
+60420001,낚시 용 바늘,40,2,0,0,none,0,0,0,1,itemName60420001,itemDesc60420001,낚시 용 바늘,Fishing Hook,60420001
+60420002,깃털 달린 펜,40,2,0,0,none,0,0,0,1,itemName60420002,itemDesc60420002,깃털 달린 펜,Quill,60420002
+60420003,군인의 창,40,2,0,0,none,0,0,0,1,itemName60420003,itemDesc60420003,군인의 창,Well-made Spear,60420003
+60420004,질 좋은 가죽,40,2,0,0,none,0,0,0,1,itemName60420004,itemDesc60420004,질 좋은 가죽,Quality Leather,60420004
+60420005,발화성 기름,40,2,0,0,none,0,0,0,1,itemName60420005,itemDesc60420005,발화성 기름,Flammable Liquid,60420005
+60420006,방한용 장화,40,2,0,0,none,0,0,0,1,itemName60420006,itemDesc60420006,방한용 장화,Winter Boots,60420006
+60430001,소금 덩어리,40,3,0,0,none,0,0,0,1,itemName60430001,itemDesc60430001,소금 덩어리,Lump of Salt,60430001
+60430002,뱀독 포션,40,3,0,0,none,0,0,0,1,itemName60430002,itemDesc60430002,뱀독 포션,Snake Poison,60430002
+60430003,빛나는 가루,40,3,0,0,none,0,0,0,1,itemName60430003,itemDesc60430003,빛나는 가루,Shiny Powder,60430003
+60430004,전투 교본,40,3,0,0,none,0,0,0,1,itemName60430004,itemDesc60430004,전투 교본,battle Manual,60430004
+60430005,향유,40,3,0,0,none,0,0,0,1,itemName60430005,itemDesc60430005,향유,Fragrant Oil,60430005
+60430006,강철 조각,40,3,0,0,none,0,0,0,1,itemName60430006,itemDesc60430006,강철 조각,Steel Chunk,60430006
+60430007,달빛 버섯,40,3,0,0,none,0,0,0,1,itemName60430007,itemDesc60430007,달빛 버섯,Moonshroom,60430007
+60440001,두꺼운 장갑,40,4,0,0,none,0,0,0,1,itemName60440001,itemDesc60440001,두꺼운 장갑,Thick Gloves,60440001
+60440002,숲 요정의 머리카락,40,4,0,0,none,0,0,0,1,itemName60440002,itemDesc60440002,숲 요정의 머리카락,Lock of Fairy Hair,60440002
+60440003,그리폰의 발톱,40,4,0,0,none,0,0,0,1,itemName60440003,itemDesc60440003,그리폰의 발톱,Griffon Claw,60440003
+60440004,만년설 결정,40,4,0,0,none,0,0,0,1,itemName60440004,itemDesc60440004,만년설 결정,Everfrost Crystal,60440004
+60440005,미스릴 화살촉,40,4,0,0,none,0,0,0,1,itemName60440005,itemDesc60440005,미스릴 화살촉,Mithril Arrowtip,60440005
+60440006,왕가의 반지,40,4,0,0,none,0,0,0,1,itemName60440006,itemDesc60440006,왕가의 반지,Royal Signet Ring,60440006
+60440007,여신의 조각상,40,4,0,0,none,0,0,0,1,itemName60440007,itemDesc60440007,여신의 조각상,Goddess Statue,60440007
+60450001,대형 진주,40,5,0,0,none,0,0,0,1,itemName60450001,itemDesc60450001,대형 진주,Large Pearl,60450001
+60450002,고대인의 양피지,40,5,0,0,none,0,0,0,1,itemName60450002,itemDesc60450002,고대인의 양피지,Ancient Parchment,60450002
+60450003,룬 원석,40,5,0,0,none,0,0,0,1,itemName60450003,itemDesc60450003,룬 원석,Raw Runestone,60450003
+60450004,만티코어의 눈동자,40,5,0,0,none,0,0,0,1,itemName60450004,itemDesc60450004,만티코어의 눈동자,Manticore Eye,60450004
+60450005,맨드레이크의 뿌리,40,5,0,0,none,0,0,0,1,itemName60450005,itemDesc60450005,맨드레이크의 뿌리,Mandrake Root,60450005
+60450006,달의 조각,40,5,0,0,none,0,0,0,1,itemName60450006,itemDesc60450006,달의 조각,Moon Chunk,60450006
+60450007,드래곤의 비늘,40,5,0,0,none,0,0,0,1,itemName60450007,itemDesc60450007,드래곤의 비늘,Dragon Scales,60450007
+60000101,화살,60,1,0,0,skill_id,20000101,0,0,0,itemName60000101,itemDesc60000101,화살,Arrow,60000101
+60000102,붕대,60,1,0,0,skill_id,20000102,0,0,0,itemName60000102,itemDesc60000102,붕대,Bandage,60000102
+60000103,폭탄,60,1,0,0,skill_id,20000103,0,0,0,itemName60000103,itemDesc60000103,폭탄,Bomb,60000103
+60000104,셔플,60,1,0,0,skill_id,20000104,0,0,0,itemName60000104,itemDesc60000104,셔플 스크롤,Shuffle scroll,60000104
+60000105,리셋 스크롤,60,1,0,0,skill_id,20000105,0,0,0,itemName60000105,itemDesc60000105,리셋 스크롤,Reset scroll,60000105
+60000106,튼튼한 화살,60,2,0,0,skill_id,20000106,0,0,0,itemName60000106,itemDesc60000106,강한 화살,Strong arrow,60000106
+60000107,깨끗한 붕대,60,2,0,0,skill_id,20000107,0,0,0,itemName60000107,itemDesc60000107,고급 붕대,High-grade bandage,60000107
+60000108,섬광 폭탄,60,2,0,0,skill_id,20000108,0,0,0,itemName60000108,itemDesc60000108,섬광 폭탄,Flash Bomb,60000108
+60000109,민첩함의 물약,60,2,0,0,skill_id,20000109,0,0,0,itemName60000109,itemDesc60000109,민첩함의 물약,Agility Potion,60000109
+60000110,회복 물약,60,2,0,0,skill_id,20000110,0,0,0,itemName60000110,itemDesc60000110,회복 물약,Healing Potion,60000110
+60000111,회복의 주문서,60,2,0,0,skill_id,20000111,0,0,0,itemName60000111,itemDesc60000111,회복의 주문서,Healing Scroll,60000111
+60000112,정신력 물약,60,2,0,0,skill_id,20000112,0,0,0,itemName60000112,itemDesc60000112,정신력 물약,Mana Potion,60000112
+60000113,집중의 주문서,60,2,0,0,skill_id,20000113,0,0,0,itemName60000113,itemDesc60000113,집중의 주문서,Concentration Scroll,60000113
+60000123,부활 주문서,60,3,0,0,skill_id,20000123,0,0,0,itemName60000123,itemDesc60000123,부활 주문서,Revival Scroll,60000123
+60110001,가죽 갑옷,50,1,0,0,skill_id,20110001,20210002,0,1,itemName60110001,itemDesc60110001,가죽 갑옷,Leather Armor,60110001
+60110002,가죽 방패,50,1,0,0,skill_id,20110002,20410002,0,1,itemName60110002,itemDesc60110002,가죽 방패,Leather Shield,60110002
+60110003,낡은 숏소드,50,1,0,0,skill_id,20110003,20310002,0,1,itemName60110003,itemDesc60110003,낡은 숏소드,Old Short Sword,60110003
+60110004,낡은 나뭇가지,50,1,0,0,skill_id,20110004,20510002,0,1,itemName60110004,itemDesc60110004,낡은 나뭇가지,Old Twig,60110004
+60110005,낡은 목걸이,50,1,0,0,skill_id,20110005,20610002,20710002,1,itemName60110005,itemDesc60110005,낡은 목걸이,Old Necklace,60110005
+60120001,사슬 갑옷,50,2,0,0,skill_id,20120001,0,0,1,itemName60120001,itemDesc60120001,사슬 갑옷,Mail Armor,60120001
+60120002,사슬 방패,50,2,0,0,skill_id,20120002,0,0,1,itemName60120002,itemDesc60120002,사슬 방패,Regular Shield,60120002
+60120003,기사의 직검,50,2,0,0,skill_id,20120003,0,0,1,itemName60120003,itemDesc60120003,기사의 직검,Knightly Sword,60120003
+60120004,마술사의 지팡이,50,2,0,4,skill_id,20120004,0,0,1,itemName60120004,itemDesc60120004,마술사의 지팡이,Magic Staff,60120004
+60120005,푸른 목걸이,50,2,0,0,skill_id,20120005,0,0,1,itemName60120005,itemDesc60120005,푸른 목걸이,Blue Necklace,60120005
+60130001,판금 갑옷,50,3,0,0,skill_id,20130001,0,0,1,itemName60130001,itemDesc60130001,판금 갑옷,Plate Armor,60130001
+60130002,판금 방패,50,3,0,0,skill_id,20130002,0,0,1,itemName60130002,itemDesc60130002,판금 방패,Well-made Shield,60130002
+60130003,영웅의 브로드소드,50,3,0,0,skill_id,20130003,0,0,1,itemName60130003,itemDesc60130003,영웅의 브로드소드,Hero's Broadsword,60130003
+60130004,성령의 지팡이,50,3,0,0,skill_id,20130004,0,0,1,itemName60130004,itemDesc60130004,성령의 지팡이,Wand of Spirits,60130004
+60130005,요정의 칼,50,3,1,0,skill_id,20130005,0,0,1,itemName60130005,itemDesc60130005,요정의 칼,Fairy Sword,60130005
+60140001,빛의 갑옷,50,4,0,0,skill_id,20140001,0,0,1,itemName60140001,itemDesc60140001,빛의 갑옷,Armor of Light,60140001
+60140002,빛의 방패,50,4,0,0,skill_id,20140002,0,0,1,itemName60140002,itemDesc60140002,빛의 방패,Shield of Light,60140002
+60140003,빛의 검,50,4,0,0,skill_id,20140003,0,0,1,itemName60140003,itemDesc60140003,빛의 검,Sword of Light,60140003
+60140004,빛의 지팡이,50,4,0,0,skill_id,20140004,0,0,1,itemName60140004,itemDesc60140004,빛의 지팡이,Staff of Light,60140004
+60140005,빛의 목걸이,50,4,0,0,skill_id,20140005,0,0,1,itemName60140005,itemDesc60140005,빛의 목걸이,Necklace of Light,60140005
+60310101,다크네스트1-1(1성),30,1,0,0,none,0,0,0,1,itemName60310101,itemDesc60310101,송곳니,Common fang,60310101
+60320101,다크네스트1-1(2성),30,2,0,0,none,0,0,0,1,itemName60320101,itemDesc60320101,송곳니 II,Common fang II,60310101
+60330101,다크네스트1-1(3성),30,3,0,0,none,0,0,0,1,itemName60330101,itemDesc60330101,송곳니 III,Common fang III,60310101
+60340101,다크네스트1-1(4성),30,4,0,0,none,0,0,0,1,itemName60340101,itemDesc60340101,송곳니 IV,Common fang IV,60310101
+60310102,다크네스트1-2(1성),30,1,0,0,none,0,0,0,1,itemName60310102,itemDesc60310102,야수가죽,Monster skin,60310102
+60320102,다크네스트1-2(2성),30,2,0,0,none,0,0,0,1,itemName60320102,itemDesc60320102,야수가죽 II,Monster skin II,60310102
+60330102,다크네스트1-2(3성),30,3,0,0,none,0,0,0,1,itemName60330102,itemDesc60330102,야수가죽 III,Monster skin III,60310102
+60340102,다크네스트1-2(4성),30,4,0,0,none,0,0,0,1,itemName60340102,itemDesc60340102,야수가죽 IV,Monster skin IV,60310102
+60310103,다크네스트1-3(1성),30,1,0,0,none,0,0,0,1,itemName60310103,itemDesc60310103,털뭉치,Lump of hair,60310103
+60320103,다크네스트1-3(2성),30,2,0,0,none,0,0,0,1,itemName60320103,itemDesc60320103,털뭉치 II,Lump of hair II,60310103
+60330103,다크네스트1-3(3성),30,3,0,0,none,0,0,0,1,itemName60330103,itemDesc60330103,털뭉치 III,Lump of hair III,60310103
+60340103,다크네스트1-3(4성),30,4,0,0,none,0,0,0,1,itemName60340103,itemDesc60340103,털뭉치 IV,Lump of hair IV,60310103
+60310201,다크네스트2-1(1성),30,1,0,0,none,0,0,0,1,itemName60310201,itemDesc60310201,맹수의 피,Monster blood,60310201
+60320201,다크네스트2-1(2성),30,2,0,0,none,0,0,0,1,itemName60320201,itemDesc60320201,맹수의 피 II,Monster blood II,60310201
+60330201,다크네스트2-1(3성),30,3,0,0,none,0,0,0,1,itemName60330201,itemDesc60330201,맹수의 피 III,Monster blood III,60310201
+60340201,다크네스트2-1(4성),30,4,0,0,none,0,0,0,1,itemName60340201,itemDesc60340201,맹수의 피 IV,Monster blood IV,60310201
+60310202,다크네스트2-2(1성),30,1,0,0,none,0,0,0,1,itemName60310202,itemDesc60310202,갑옷조각,Armor piece,60310202
+60320202,다크네스트2-2(2성),30,2,0,0,none,0,0,0,1,itemName60320202,itemDesc60320202,갑옷조각 II,Armor piece II,60310202
+60330202,다크네스트2-2(3성),30,3,0,0,none,0,0,0,1,itemName60330202,itemDesc60330202,갑옷조각 III,Armor piece III,60310202
+60340202,다크네스트2-2(4성),30,4,0,0,none,0,0,0,1,itemName60340202,itemDesc60340202,갑옷조각 IV,Armor piece IV,60310202
+60310203,다크네스트2-3(1성),30,1,0,0,none,0,0,0,1,itemName60310203,itemDesc60310203,무기조각,Weapon shard,60310203
+60320203,다크네스트2-3(2성),30,2,0,0,none,0,0,0,1,itemName60320203,itemDesc60320203,무기조각 II,Weapon shard II,60310203
+60330203,다크네스트2-3(3성),30,3,0,0,none,0,0,0,1,itemName60330203,itemDesc60330203,무기조각 III,Weapon shard III,60310203
+60340203,다크네스트2-3(4성),30,4,0,0,none,0,0,0,1,itemName60340203,itemDesc60340203,무기조각 IV,Weapon shard IV,60310203
+60310301,다크네스트3-1(1성),30,1,0,0,none,0,0,0,1,itemName60310301,itemDesc60310301,마법 털가죽,Magic fur,60310301
+60320301,다크네스트3-1(2성),30,2,0,0,none,0,0,0,1,itemName60320301,itemDesc60320301,마법 털가죽 II,Magic fur II,60310301
+60330301,다크네스트3-1(3성),30,3,0,0,none,0,0,0,1,itemName60330301,itemDesc60330301,마법 털가죽 III,Magic fur III,60310301
+60340301,다크네스트3-1(4성),30,4,0,0,none,0,0,0,1,itemName60340301,itemDesc60340301,마법 털가죽 IV,Magic fur IV,60310301
+60310302,다크네스트3-2(1성),30,1,0,0,none,0,0,0,1,itemName60310302,itemDesc60310302,맹독 송곳니,Venomous fang,60310302
+60320302,다크네스트3-2(2성),30,2,0,0,none,0,0,0,1,itemName60320302,itemDesc60320302,맹독 송곳니 II,Venomous fang II,60310302
+60330302,다크네스트3-2(3성),30,3,0,0,none,0,0,0,1,itemName60330302,itemDesc60330302,맹독 송곳니 III,Venomous fang III,60310302
+60340302,다크네스트3-2(4성),30,4,0,0,none,0,0,0,1,itemName60340302,itemDesc60340302,맹독 송곳니 IV,Venomous fang IV,60310302
+60310303,다크네스트3-3(1성),30,1,0,0,none,0,0,0,1,itemName60310303,itemDesc60310303,단단한 비늘,Hard scale,60310303
+60320303,다크네스트3-3(2성),30,2,0,0,none,0,0,0,1,itemName60320303,itemDesc60320303,단단한 비늘 II,Hard scale II,60310303
+60330303,다크네스트3-3(3성),30,3,0,0,none,0,0,0,1,itemName60330303,itemDesc60330303,단단한 비늘 III,Hard scale III,60310303
+60340303,다크네스트3-3(4성),30,4,0,0,none,0,0,0,1,itemName60340303,itemDesc60340303,단단한 비늘 IV,Hard scale IV,60310303
+60310401,다크네스트4-1(1성),30,1,0,0,none,0,0,0,1,itemName60310401,itemDesc60310401,어둠 주괴,Shadow ingot,60310401
+60320401,다크네스트4-1(2성),30,2,0,0,none,0,0,0,1,itemName60320401,itemDesc60320401,어둠 주괴 II,Shadow ingot II,60310401
+60330401,다크네스트4-1(3성),30,3,0,0,none,0,0,0,1,itemName60330401,itemDesc60330401,어둠 주괴 III,Shadow ingot III,60310401
+60340401,다크네스트4-1(4성),30,4,0,0,none,0,0,0,1,itemName60340401,itemDesc60340401,어둠 주괴 IV,Shadow ingot IV,60310401
+60310402,다크네스트4-2(1성),30,1,0,0,none,0,0,0,1,itemName60310402,itemDesc60310402,비늘가죽,Scale leather,60310402
+60320402,다크네스트4-2(2성),30,2,0,0,none,0,0,0,1,itemName60320402,itemDesc60320402,비늘가죽 II,Scale leather II,60310402
+60330402,다크네스트4-2(3성),30,3,0,0,none,0,0,0,1,itemName60330402,itemDesc60330402,비늘가죽 III,Scale leather III,60310402
+60340402,다크네스트4-2(4성),30,4,0,0,none,0,0,0,1,itemName60340402,itemDesc60340402,비늘가죽 IV,Scale leather IV,60310402
+60310403,다크네스트4-3(1성),30,1,0,0,none,0,0,0,1,itemName60310403,itemDesc60310403,타락 가죽,Fell leather,60310403
+60320403,다크네스트4-3(2성),30,2,0,0,none,0,0,0,1,itemName60320403,itemDesc60320403,타락 가죽 II,Fell leather II,60310403
+60330403,다크네스트4-3(3성),30,3,0,0,none,0,0,0,1,itemName60330403,itemDesc60330403,타락 가죽 III,Fell leather III,60310403
+60340403,다크네스트4-3(4성),30,4,0,0,none,0,0,0,1,itemName60340403,itemDesc60340403,타락 가죽 IV,Fell leather IV,60310403
+60310501,다크네스트5-1(1성),30,1,0,0,none,0,0,0,1,itemName60310501,itemDesc60310501,무지개깃털,Rainbow feather,60310501
+60320501,다크네스트5-1(2성),30,2,0,0,none,0,0,0,1,itemName60320501,itemDesc60320501,무지개깃털 II,Rainbow feather II,60310501
+60330501,다크네스트5-1(3성),30,3,0,0,none,0,0,0,1,itemName60330501,itemDesc60330501,무지개깃털 III,Rainbow feather III,60310501
+60340501,다크네스트5-1(4성),30,4,0,0,none,0,0,0,1,itemName60340501,itemDesc60340501,무지개깃털 IV,Rainbow feather IV,60310501
+60310502,다크네스트5-2(1성),30,1,0,0,none,0,0,0,1,itemName60310502,itemDesc60310502,악의 심장,Heart of darkness,60310502
+60320502,다크네스트5-2(2성),30,2,0,0,none,0,0,0,1,itemName60320502,itemDesc60320502,악의 심장 II,Heart of darkness II,60310502
+60330502,다크네스트5-2(3성),30,3,0,0,none,0,0,0,1,itemName60330502,itemDesc60330502,악의 심장 III,Heart of darkness III,60310502
+60340502,다크네스트5-2(4성),30,4,0,0,none,0,0,0,1,itemName60340502,itemDesc60340502,악의 심장 IV,Heart of darkness IV,60310502
+60310503,다크네스트5-3(1성),30,1,0,0,none,0,0,0,1,itemName60310503,itemDesc60310503,용의 눈,Dragon eye,60310503
+60320503,다크네스트5-3(2성),30,2,0,0,none,0,0,0,1,itemName60320503,itemDesc60320503,용의 눈 II,Dragon eye II,60310503
+60330503,다크네스트5-3(3성),30,3,0,0,none,0,0,0,1,itemName60330503,itemDesc60330503,용의 눈 III,Dragon eye III,60310503
+60340503,다크네스트5-3(4성),30,4,0,0,none,0,0,0,1,itemName60340503,itemDesc60340503,용의 눈 IV,Dragon eye IV,60310503

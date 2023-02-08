@@ -1,0 +1,5 @@
+id,price,reward,buy_limit_type,limit_qty,visible,name,description,image,hero_Inven_need
+1,275,39300050,0,0,1,arensShopName1,arensShopDesc1,60000201,0
+2,550,39300250,0,0,1,arensShopName2,arensShopDesc2,60000201,0
+3,1100,39300500,0,0,1,arensShopName3,arensShopDesc3,60000201,0
+4,2200,30000204,0,0,1,arensShopName4,arensShopDesc4,10324000,1
